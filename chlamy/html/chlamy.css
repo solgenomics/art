@@ -1,0 +1,18 @@
+body { 
+  background: #2e2e2e;
+ 
+
+}
+
+#sitecontainer { 
+  background: white url('sitehead.png') no-repeat top left;
+  width: 741px;
+  min-height: 300px;
+  margin: 30px auto 0 auto;
+}
+#sitefooter { 
+  background: white url('sitefoot.png') no-repeat bottom left;
+  width: 741px;
+  min-height: 39px;
+  margin: 0 auto 30px auto;
+}
