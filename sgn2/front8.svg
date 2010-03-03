@@ -297,15 +297,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="592.81237"
-     inkscape:cy="794.31964"
+     inkscape:cx="506.96288"
+     inkscape:cy="726.94828"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1139"
-     inkscape:window-height="774"
-     inkscape:window-x="312"
-     inkscape:window-y="144"
+     inkscape:window-width="931"
+     inkscape:window-height="808"
+     inkscape:window-x="214"
+     inkscape:window-y="1088"
      showborder="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -338,9 +338,9 @@
        style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4919"
        width="1119"
-       height="2"
+       height="1"
        x="-39.5"
-       y="87.970589"
+       y="88.970589"
        rx="0"
        ry="0" />
     <g
@@ -373,12 +373,12 @@
     <text
        xml:space="preserve"
        style="font-size:13.25399017px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="779.99512"
+       x="777.99512"
        y="32.097633"
        id="text3290"><tspan
          sodipodi:role="line"
          id="tspan3292"
-         x="779.99512"
+         x="777.99512"
          y="32.097633">home | contact | help</tspan></text>
     <rect
        style="fill:url(#linearGradient3263);fill-opacity:1;stroke:#757575;stroke-width:0.93758714;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -472,7 +472,7 @@
          height="18.965363"
          width="338.3866"
          id="rect4842"
-         style="opacity:1;fill:#d54032;fill-opacity:1;stroke:#343434;stroke-width:1.02551769999999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#343434;stroke-width:1.02551769999999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          xml:space="preserve"
          style="font-size:11.04746151px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -615,7 +615,7 @@
          y="78">TG124</tspan></text>
     <g
        id="g2487"
-       transform="translate(0,-52)">
+       transform="translate(0,-60)">
       <g
          transform="matrix(1.0909651,0,0,1,-82.852374,7)"
          id="g4902">
