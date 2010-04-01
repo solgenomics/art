@@ -285,6 +285,13 @@
        y1="119.21311"
        x2="222.47614"
        y2="243.21469" />
+    <inkscape:perspective
+       id="perspective2553"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -297,13 +304,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="588.13196"
-     inkscape:cy="737.26829"
+     inkscape:cx="427.24956"
+     inkscape:cy="802.42691"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1119"
-     inkscape:window-height="788"
+     inkscape:window-width="1270"
+     inkscape:window-height="866"
      inkscape:window-x="53"
      inkscape:window-y="41"
      showborder="true"
@@ -678,5 +685,13 @@
        width="69.25"
        id="rect3264"
        style="opacity:0.6;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       y="96"
+       x="197.5"
+       id="image2555"
+       height="690"
+       width="753"
+       sodipodi:absref="/crypt/rob/cxgn/curr/art/sgn2/snap17.png"
+       xlink:href="/crypt/rob/cxgn/curr/art/sgn2/snap17.png" />
   </g>
 </svg>
