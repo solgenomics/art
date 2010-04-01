@@ -47,7 +47,7 @@
     <linearGradient
        id="linearGradient4731">
       <stop
-         style="stop-color:#898989;stop-opacity:1;"
+         style="stop-color:#ababab;stop-opacity:1;"
          offset="0"
          id="stop4733" />
       <stop
@@ -58,11 +58,11 @@
     <linearGradient
        id="linearGradient4711">
       <stop
-         style="stop-color:#0c3b00;stop-opacity:1;"
+         style="stop-color:#115400;stop-opacity:1;"
          offset="0"
          id="stop4713" />
       <stop
-         style="stop-color:#49c92c;stop-opacity:1;"
+         style="stop-color:#4acc2c;stop-opacity:1;"
          offset="1"
          id="stop4715" />
     </linearGradient>
@@ -84,7 +84,7 @@
     <linearGradient
        id="linearGradient3289">
       <stop
-         style="stop-color:#e4e1e1;stop-opacity:1;"
+         style="stop-color:#ece9e9;stop-opacity:1;"
          offset="0"
          id="stop3291" />
       <stop
@@ -132,12 +132,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3289"
        id="linearGradient3295"
-       x1="418.40671"
-       y1="-0.73781741"
-       x2="418.40671"
-       y2="98.192665"
+       x1="417.49802"
+       y1="-0.048662286"
+       x2="417.49802"
+       y2="87.901924"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9999719,0,0,1.0586247,2.0137778,-5.0551432)" />
+       gradientTransform="matrix(0.9999719,0,0,1.0586247,2.0137778,2.9448568)" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3470">
@@ -169,7 +169,7 @@
        xlink:href="#linearGradient3350"
        id="linearGradient4748"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7357893,0,0,1.0050336,201.40154,-23.140159)"
+       gradientTransform="matrix(0.7783487,0,0,1.0039492,170.95381,-23.036031)"
        x1="624.68182"
        y1="87.005478"
        x2="624.68182"
@@ -230,7 +230,7 @@
        xlink:href="#linearGradient4731"
        id="linearGradient3263"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.8790698,0,0,1,677.55809,1.162818e-8)"
+       gradientTransform="matrix(1.0794815,0,0,0.9964454,643.65897,0.2613604)"
        x1="222.99998"
        y1="98"
        x2="222.99998"
@@ -297,15 +297,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="506.96288"
-     inkscape:cy="726.94828"
+     inkscape:cx="588.13196"
+     inkscape:cy="737.26829"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="931"
-     inkscape:window-height="808"
-     inkscape:window-x="214"
-     inkscape:window-y="1088"
+     inkscape:window-width="1119"
+     inkscape:window-height="788"
+     inkscape:window-x="53"
+     inkscape:window-y="41"
      showborder="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -326,12 +326,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:url(#linearGradient3295);fill-opacity:1;stroke:#8b8b8b;stroke-width:1.02888048;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient3295);fill-opacity:1;stroke:none;stroke-width:1.02888047999999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2430"
        width="1769.9712"
        height="465.72849"
        x="-465.48553"
-       y="-378.24292"
+       y="-370.24292"
        rx="4.9998603"
        ry="5.2931237" />
     <rect
@@ -345,7 +345,7 @@
        ry="0" />
     <g
        id="g3443"
-       transform="matrix(0.8779566,0,0,0.8779566,59.965135,1.5464474)">
+       transform="matrix(1.1310252,0,0,1.1310252,21.923774,-10.685753)">
       <g
          transform="matrix(1.0391081,0,0,1.0391081,-24.552227,-15.890363)"
          id="g3250">
@@ -370,23 +370,13 @@
        sodipodi:absref="/crypt/rob/cxgn/core/sgn-tools/art/sgn2/pastedpic_08072009_125402.png"
        xlink:href="pastedpic_08072009_125402.png"
        sodipodi:insensitive="true" />
-    <text
-       xml:space="preserve"
-       style="font-size:13.25399017px;font-style:normal;font-weight:normal;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="777.99512"
-       y="32.097633"
-       id="text3290"><tspan
-         sodipodi:role="line"
-         id="tspan3292"
-         x="777.99512"
-         y="32.097633">home | contact | help</tspan></text>
     <rect
-       style="fill:url(#linearGradient3263);fill-opacity:1;stroke:#757575;stroke-width:0.93758714;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient3263);fill-opacity:1;stroke:#757575;stroke-width:1.03713274;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="use4923"
-       width="96.062408"
-       height="28.005018"
-       x="826.46875"
-       y="59.525681"
+       width="117.96286"
+       height="27.905472"
+       x="826.51849"
+       y="59.575455"
        rx="0"
        ry="0" />
     <rect
@@ -400,13 +390,13 @@
        style="fill:url(#linearGradient3260);fill-opacity:1;stroke:#757575;stroke-width:0.98444909;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text3325"
-       y="49.05014"
-       x="221.83005"
+       y="45.218014"
+       x="221.83008"
        style="font-size:23.91481209px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        xml:space="preserve"
        transform="scale(0.9580355,1.0438027)"><tspan
-         y="49.05014"
-         x="221.83005"
+         y="45.218014"
+         x="221.83008"
          id="tspan3327"
          sodipodi:role="line"
          style="font-size:23.91481209px;font-weight:bold">sol genomics network</tspan></text>
@@ -439,14 +429,14 @@
            sodipodi:role="line">sol search</tspan></text>
     </g>
     <rect
-       ry="6.6113443"
-       rx="5.1279593"
-       y="63.252346"
-       x="572.39014"
-       height="20.219675"
-       width="155.2197"
+       ry="6.6042109"
+       rx="5.4245696"
+       y="63.263252"
+       x="563.401"
+       height="20.197859"
+       width="164.19788"
        id="rect3391"
-       style="fill:url(#linearGradient4748);fill-opacity:1;stroke:#000000;stroke-width:0.78032506;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient4748);fill-opacity:1;stroke:#000000;stroke-width:0.80214244;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/crypt/rob/cxgn/core/sgn-tools/art/sgn2/front6.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -463,26 +453,17 @@
          style="font-weight:bold">Jobs</tspan></text>
     <g
        id="g4850"
-       transform="matrix(0.9604136,0,0,0.990046,36.498589,4.712453)">
-      <rect
-         ry="0"
-         rx="0"
-         y="36.36853"
-         x="584.12939"
-         height="18.965363"
-         width="338.3866"
-         id="rect4842"
-         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#343434;stroke-width:1.02551769999999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       transform="matrix(0.9604136,0,0,0.990046,58.498589,4.712453)">
       <text
          xml:space="preserve"
          style="font-size:11.04746151px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="592.65869"
+         x="553.09198"
          y="49.90876"
          id="text3812"><tspan
-           style="font-weight:bold"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
            sodipodi:role="line"
            id="tspan3814"
-           x="592.65869"
+           x="553.09198"
            y="49.90876">Robert Buels:</tspan></text>
       <text
          id="text3816"
@@ -495,38 +476,29 @@
            id="tspan3818"
            sodipodi:role="line"
            style="font-weight:normal">log out</tspan></text>
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4859"
-         width="189.50169"
-         height="18.180973"
-         x="683.56134"
-         y="36.652386"
-         rx="0"
-         ry="0" />
       <text
          id="text3820"
          y="49.459488"
-         x="695.90149"
+         x="650.0874"
          style="font-size:12.0677433px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
            y="49.459488"
-           x="695.90149"
+           x="650.0874"
            id="tspan3822"
            sodipodi:role="line"
-           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">MySGN  |  Data  |  Hotlist</tspan></text>
+           style="font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">MySGN  |  Data  |  Hotlist  |  Help</tspan></text>
     </g>
     <text
        id="text3399"
        y="77.496048"
-       x="853.28094"
+       x="851.28094"
        style="font-size:14.13369656px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          y="77.496048"
-         x="853.28094"
+         x="851.28094"
          id="tspan3401"
          sodipodi:role="line"
-         style="font-weight:bold">browse</tspan></text>
+         style="font-weight:bold">data types</tspan></text>
     <rect
        style="fill:url(#linearGradient3283);fill-opacity:1;stroke:#757575;stroke-width:0.96915329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="use4743"
@@ -606,16 +578,16 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-       x="585"
+       x="573"
        y="78"
        id="text3766"><tspan
          sodipodi:role="line"
          id="tspan3768"
-         x="585"
+         x="573"
          y="78">TG124</tspan></text>
     <g
        id="g2487"
-       transform="translate(0,-60)">
+       transform="translate(-2,-282)">
       <g
          transform="matrix(1.0909651,0,0,1,-82.852374,7)"
          id="g4902">
@@ -700,18 +672,11 @@
          style="opacity:0.26000001;fill:#f1efef;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1" />
     </g>
     <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2502"
-       width="1"
-       height="27"
-       x="386"
-       y="60" />
-    <rect
-       y="60"
-       x="317"
-       height="27"
-       width="1"
-       id="rect2504"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       y="61.75"
+       x="317.75"
+       height="3.75"
+       width="69.25"
+       id="rect3264"
+       style="opacity:0.6;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
