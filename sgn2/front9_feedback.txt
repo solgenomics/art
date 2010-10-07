@@ -1,0 +1,42 @@
+<mueller> [20:48] rbuels: I think the new layout needs a bit of tweaking...
+<mueller> [20:49] the green is a bit too toxic... maybe this should really be blue?
+<mueller> [20:50] also - I liked the logo bigger, on the left to the menu and the sol genomics network line. maybe this could be kept?
+<mueller> [20:51] maybe we should just say solgenomics.net (not instead of sgn and then solgenomics.net in small? the latter looks a bit lost)
+<mueller> [20:51] I like the more edgy look
+<mueller> [20:51] I also think the orange for the search is a bit aggressive. We should keep the general "cool" look that we have always had.
+<mueller> [20:52] the log in is extremely spiffy!
+<mueller> [20:52] the new info section dividers are also nice
+<mueller> [20:53] the menu items are spaced a bit too much, the menus, on a laptop screen, are longer than the browser is high
+<mueller> [20:54] I would also remove the fine divider line between the header and the body
+
+03:48 <@isaak> rbuels: the sharp edges are give sgn modern look...
+03:51 <@isaak> rbuels: perhaps you can change the green with the "light purple"/dark grey that you use to highlight the menu
+               items..
+03:52 <@isaak> rbuels: the login and help are far out there..
+03:54 <@isaak> for consistence purpose may be you can adjust the horizontal line to the same size of the site width
+03:55 <@isaak> this is an old issue, but the 'search' and 'sol search' seem to be duplications..
+03:56 <@isaak> may be the 'search' should be 'Databases' or something..since that menu just lists the dbs..
+03:58 <@isaak> i think instead of the 'sgn' and 'solgenomics.net', we should keep the the full name of the site...that a few
+               words for the random visitor tells what the site is about..
+03:59 <@isaak> ..Sol Genomics Network, in a few words, informs the random visitor what the site is about it..
+04:00 <@isaak> solgenomics.net is a duplicate of what is on the address bar and adds no new information..
+04:00 <@isaak> and SGN might be confused for other acronyms...check it out.. :-)
+04:03 <@isaak> rbuels: we should also keep the 'contact' link on the top..easy to find that way..
+04:04 <@isaak> I think we should also move the 'About SGN' to the top next to 'contact/help' etc
+
+<rbuels> naama: you mean in the header?
+<rbuels> naama: or the top of the footer?
+<naama> rbuels: header
+<naama> I don't think anybody sees it now 
+<rbuels> naama: that's a good point.  maybe we should also have a whole page about the importance of citing SGN
+<naama> rbuels: good idea
+<rbuels> regarding the logo being small and pushed up on top, the reason i did that was because having it on the side of the toolbar makes the page graphically sort of pull to the right side, because the toolbar is so much heavier than the logo
+<rbuels> but, it might be possible to make the logo heavier to stand up to the toolbar.
+<rbuels> with color tweaks or whatnot
+<rbuels> i can try it.
+<mueller> The logo is just too small, it has lots of little intricate lines, which make it visually hard to discern
+<mueller> the toolbar is very heavy, it is too high, the font is a little too big, and it could be less gray... even the lines around the toolbar should be lighter, I think.
+<mueller> there seems to be a lot of empty space in the toolbar... so yes, why not have the cite sgn there, plus some other links (About, etc, what we had before)
+<rbuels> well, empty space is not wasted space, it can be important
+<mueller> yes, but the toolbar should be reasonably compact, because it appears on every page...
+
