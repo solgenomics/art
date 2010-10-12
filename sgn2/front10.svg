@@ -192,7 +192,7 @@
        xlink:href="#linearGradient3350"
        id="linearGradient4748"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.8285283,0,0,0.862478,139.93533,-26.433898)"
+       gradientTransform="matrix(0.8283178,0,0,0.9656235,136.06367,-36.397628)"
        x1="624.68182"
        y1="87.005478"
        x2="624.68182"
@@ -237,7 +237,7 @@
        y2="69.362183"
        gradientUnits="userSpaceOnUse"
        spreadMethod="pad"
-       gradientTransform="matrix(1,0,0,0.8980137,5.8380314,7.1304792)" />
+       gradientTransform="matrix(1.0003321,0,0,0.8353126,5.5611648,12.995522)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4731"
@@ -273,7 +273,7 @@
        xlink:href="#linearGradient4711"
        id="linearGradient3280"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0644693,0,0,0.8590853,74.519636,-2.7780996)"
+       gradientTransform="matrix(1.0643336,0,0,0.8765952,74.551999,-3.736283)"
        x1="231"
        y1="93.032227"
        x2="231"
@@ -362,6 +362,18 @@
          stdDeviation="0.75718947"
          id="feGaussianBlur4172" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4766"
+       x="-0.0062142152"
+       width="1.0124284"
+       y="-0.17405529"
+       height="1.3481106">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7175289"
+         id="feGaussianBlur4768" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -374,15 +386,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="424.33425"
-     inkscape:cy="745.28139"
+     inkscape:cx="554.83504"
+     inkscape:cy="758.6767"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1018"
-     inkscape:window-height="807"
-     inkscape:window-x="1280"
-     inkscape:window-y="52"
+     inkscape:window-width="1168"
+     inkscape:window-height="774"
+     inkscape:window-x="115"
+     inkscape:window-y="-39"
      showborder="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -402,9 +414,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.32814955999999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4766)"
+       id="rect4253"
+       width="663.32904"
+       height="23.682529"
+       x="189.25511"
+       y="47.12719"
+       rx="3.4304891"
+       ry="0"
+       transform="matrix(0.9984925,0,0,1,0.2853111,0)" />
     <g
        style="fill:#564843;fill-opacity:1"
-       transform="matrix(0.4590698,0,0,0.3579709,189.7508,17.976702)"
+       transform="matrix(0.4590698,0,0,0.3579709,185.7508,17.976702)"
        id="g3298">
       <text
          id="text3904"
@@ -514,16 +536,16 @@
        style="fill:url(#linearGradient3260);fill-opacity:1;stroke:#b1b1b1;stroke-width:0.91399902;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g4754"
-       transform="matrix(0.9420984,0,0,0.9658046,1.399507,-22.641495)">
+       transform="matrix(0.9420984,0,0,0.9658046,1.399507,-22.891495)">
       <rect
-         rx="6.0261974"
-         y="72.802979"
-         x="794.4408"
-         height="18.118412"
-         width="90.118408"
+         rx="6.0281987"
+         y="74.082642"
+         x="794.42584"
+         height="16.85335"
+         width="90.148338"
          id="rect3256"
-         style="fill:url(#linearGradient5115);fill-opacity:1;stroke:#000000;stroke-width:0.83542824;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         ry="5.4116082" />
+         style="fill:url(#linearGradient5115);fill-opacity:1;stroke:#000000;stroke-width:0.80586869;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         ry="5.0337591" />
       <path
          transform="matrix(0.3218955,0,0,0.5869564,717.5392,34.369564)"
          style="opacity:0.36000001;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1"
@@ -531,25 +553,25 @@
          id="path2520" />
       <text
          id="text3246"
-         y="80.907623"
-         x="849.50488"
-         style="font-size:13.84226799px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         y="81.906761"
+         x="854.08911"
+         style="font-size:12.5744648px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
          xml:space="preserve"
          transform="scale(0.9476334,1.0552604)"><tspan
-           y="80.907623"
-           x="849.50488"
+           y="81.906761"
+           x="854.08911"
            id="tspan3248"
            sodipodi:role="line">sol search</tspan></text>
     </g>
     <rect
-       ry="5.6735802"
-       rx="5.7742877"
-       y="48.704544"
-       x="557.68335"
-       height="16.351681"
-       width="175.0336"
+       ry="6.3520956"
+       rx="5.77282"
+       y="47.726776"
+       x="553.70551"
+       height="18.307211"
+       width="174.98914"
        id="rect3391"
-       style="fill:url(#linearGradient4748);fill-opacity:1;stroke:#000000;stroke-width:0.76707208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient4748);fill-opacity:1;stroke:#000000;stroke-width:0.8115418;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/crypt/rob/cxgn/core/sgn-tools/art/sgn2/front6.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -575,26 +597,26 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-size:15.70515442px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="369.2851"
-       y="61.488396"
+       style="font-size:15.70515347px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="369.28506"
+       y="62.520588"
        id="text3282"
        transform="scale(1.0321933,0.9688107)"><tspan
          sodipodi:role="line"
          id="tspan3284"
-         x="369.2851"
-         y="61.488396">genomes</tspan></text>
+         x="369.28506"
+         y="62.520588">genomes</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:15.70515442px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="474.1337"
-       y="61.488396"
+       style="font-size:15.70515347px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="474.13367"
+       y="62.520588"
        id="text3286"
        transform="scale(1.0321933,0.9688107)"><tspan
          sodipodi:role="line"
          id="tspan3288"
-         x="474.1337"
-         y="61.488396">tools</tspan></text>
+         x="474.13367"
+         y="62.520588">tools</tspan></text>
     <rect
        style="fill:url(#linearGradient3268);fill-opacity:1;stroke:#b1b1b1;stroke-width:0.88617641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="use5071"
@@ -605,36 +627,36 @@
        rx="1.3676029"
        ry="0" />
     <rect
-       style="fill:url(#linearGradient3280);fill-opacity:1;stroke:#727272;stroke-width:0.95627922;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient3280);fill-opacity:1;stroke:#727272;stroke-width:0.96591395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3939"
-       width="75.577332"
-       height="24.058699"
-       x="290.6069"
-       y="44.469433"
+       width="75.567696"
+       height="24.549065"
+       x="290.61172"
+       y="44.474251"
        rx="0"
        ry="0" />
     <text
        id="text3306"
-       y="61.911892"
-       x="207.30376"
-       style="font-size:15.70515442px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       y="62.944084"
+       x="207.30374"
+       style="font-size:15.70515347px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        xml:space="preserve"
        transform="scale(1.0321933,0.9688107)"><tspan
-         y="61.911892"
-         x="207.30376"
+         y="62.944084"
+         x="207.30374"
          id="tspan3308"
          sodipodi:role="line">search</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.21165943px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-       x="547.06494"
-       y="62.811562"
+       style="font-size:13.21165562px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       x="548.03375"
+       y="62.81155"
        id="text3766"
        transform="scale(1.0321933,0.9688107)"><tspan
          sodipodi:role="line"
          id="tspan3768"
-         x="547.06494"
-         y="62.811562">TG124</tspan></text>
+         x="548.03375"
+         y="62.81155">TG124</tspan></text>
     <rect
        style="opacity:1;fill:url(#linearGradient3426);fill-opacity:1;stroke:#757575;stroke-width:0.99529469;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect2648"
@@ -841,15 +863,15 @@
        transform="matrix(1.3727515,0,0,1.3727515,-326.62517,-94.999765)" />
     <text
        xml:space="preserve"
-       style="font-size:15.70515442px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-size:15.70515347px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        x="298.4314"
-       y="61.488396"
+       y="62.520588"
        id="text3278"
        transform="scale(1.0321933,0.9688107)"><tspan
          sodipodi:role="line"
          id="tspan3280"
          x="298.4314"
-         y="61.488396">maps</tspan></text>
+         y="62.520588">maps</tspan></text>
     <rect
        y="47.154533"
        x="291.1875"
@@ -910,12 +932,12 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="665"
-       y="88"
+       x="560"
+       y="22"
        id="text4474"><tspan
          sodipodi:role="line"
          id="tspan4476"
-         x="665"
-         y="88">if you find SGN useful, please cite us</tspan></text>
+         x="560"
+         y="22">if you find SGN useful, please cite us</tspan></text>
   </g>
 </svg>
