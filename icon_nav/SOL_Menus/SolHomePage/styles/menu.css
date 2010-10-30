@@ -1,0 +1,171 @@
+body {
+	font-family: arial, helvetica, serif;
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+}
+
+img {
+	border: none;
+}
+
+#nav, #nav ul { /* all lists */
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1;
+}
+
+#nav a {
+	display: block;
+	width: 10em;
+}
+
+#nav li { /* all list items */
+	float: left;
+	 /* width: 10em; width needed or else Opera goes nuts */
+}
+
+#nav li ul { /* second-level lists */
+	position: absolute;
+	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+}
+
+#nav li ul li {
+	margin-left: 15px;
+}
+
+#nav li:hover ul, #nav li.sfhover ul { /* lists nested under hovered list items */
+	left: auto;
+}
+
+#content {
+	clear: left;
+	color: #ccc;
+}
+
+
+
+/* ------------------------------------------------       Sub Menu Images           ----------------------------------------------- */
+
+.MapsMarkers {
+	position: relative; 
+	top: 150px;
+	left: 20px;
+}
+
+
+.MapsMarkersSubMenu {
+	position: relative;
+	left: 190px;
+	top: -160px;
+	width: 260px;
+	z-index: 1;
+}
+
+.MapsMarkersSubMenu a {
+	padding-left: 15px;
+}
+
+.subMenuTop {
+	background-image: url(../images/subMenuTop.png);
+	height: 25px;
+	width: 227px;
+}
+
+.subMenu {
+	background-image: url(../images/subMenuMiddle.png);
+	width: 227px;
+}
+
+.subMenuBottom {
+	background-image: url(../images/subMenuBottom.png);
+	height: 35px;
+	width: 227px;
+}
+
+.Genes {
+	position: relative; 
+	top: 80px;
+	left: 170px;
+}
+
+.GenesSubMenu {
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: -120px;
+	left: 100px;
+	z-index: 1;
+}
+
+.GenesSubMenu a {
+	padding-left: 15px;
+}
+
+.Phenotypes {
+	position: relative; 
+	top: 150px;
+	left: 240px;
+}
+
+.PhenotypesSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: -110px;
+	left: 115px;
+}
+
+
+.BreddersToolBox {
+	position: relative; 
+	top: 320px;
+	left: -410px;
+}
+
+.BreddersToolBoxSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: -110px;
+	left: 115px;
+}
+
+
+.GenomesSequences {
+	position: relative; 
+	top: 390px;
+	left: -395px;
+}
+
+.GenomesSequencesSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: -110px;
+	left: 115px;
+}
+
+
+.Pathways {
+	position: relative; 
+	top: 300px;
+	left: -290px;
+}
+
+.PathwaysSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: -110px;
+	left: 115px;
+}

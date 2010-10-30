@@ -1,0 +1,121 @@
+body {
+	font-family: arial, helvetica, serif;
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+}
+
+img {
+	border: none;
+}
+
+#nav, #nav ul { /* all lists */
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1;
+}
+
+#nav a {
+	display: block;
+	width: 10em;
+}
+
+#nav li { /* all list items */
+	float: left;
+	width: 10em; /* width needed or else Opera goes nuts */
+}
+
+#nav li ul { /* second-level lists */
+	position: absolute;
+	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+}
+
+#nav li ul li {
+	margin-left: 15px;
+}
+
+#nav li:hover ul, #nav li.sfhover ul { /* lists nested under hovered list items */
+	left: auto;
+}
+
+#content {
+	clear: left;
+	color: #ccc;
+}
+
+
+
+/* ------------------------------------------------       Sub Menu Images           ----------------------------------------------- */
+
+.SNPTool {
+	position: relative; 
+	top: 80px;
+	left: 20px;
+}
+
+.SNPToolSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+
+
+
+.Markers {
+	position: relative; 
+	top: 80px;
+	left: 410px;
+}
+
+.MarkersSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+
+.Traits {
+	position: relative; 
+	top: 270px;
+	left: 170px;
+}
+
+.TraitsSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+
+
+
+.QTLTool {
+	position: relative; 
+	top: 270px;
+	left: -320px;
+}
+
+.QTLToolSubMenu {
+	background-image: url(../images/MapsMarkersSub.png);
+	width: 227px;
+	height: 341px;
+	padding-top: 15px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+
