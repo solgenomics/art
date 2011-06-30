@@ -18,9 +18,9 @@
    sodipodi:docname="brochure.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   inkscape:export-filename="/home/.rob_clear/cxgn/core/sgn-tools/doc/promotional_brochure/brochure.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
+   inkscape:export-filename="sgn_brochure_draft.png"
+   inkscape:export-xdpi="299.94577"
+   inkscape:export-ydpi="299.94577">
   <defs
      id="defs2162">
     <linearGradient
@@ -465,6 +465,78 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5546"
+       id="linearGradient2906"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4962028e-2,0,0,1,-387.65398,0)"
+       x1="693.2395"
+       y1="646.78729"
+       x2="525.05383"
+       y2="646.78729" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5546"
+       id="linearGradient2908"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9495291,0,0,1,21.865134,0)"
+       x1="382.17392"
+       y1="646.78729"
+       x2="362.13007"
+       y2="646.78729" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3161"
+       id="linearGradient2910"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.8403524e-2,3.9789334e-3,-3.9789334e-3,7.8403524e-2,346.17613,622.14866)"
+       x1="86.898064"
+       y1="119.21311"
+       x2="222.47614"
+       y2="243.21469" />
+    <inkscape:perspective
+       id="perspective3000"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3100"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3211"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3281"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3501"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3614"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      inkscape:document-units="in"
@@ -473,15 +545,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="432.66472"
-     inkscape:cy="945.04656"
-     inkscape:current-layer="g4983"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="213.17748"
+     inkscape:cy="1071.52"
+     inkscape:current-layer="layer1"
      id="namedview2164"
-     inkscape:window-width="1406"
-     inkscape:window-height="865"
-     inkscape:window-x="88"
-     inkscape:window-y="76"
+     inkscape:window-width="1280"
+     inkscape:window-height="725"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      showguides="false"
      inkscape:guide-bbox="true"
      width="11in"
@@ -679,11 +751,11 @@
            y="14.121922"
            style="font-style:normal" /></flowRegion><flowPara
          id="flowPara6386"
-         style="text-align:justify;text-anchor:start">The Sol Genomics Network (SGN) is a resource for plant genetic and genomic information.  Our data is centered on the Solanaceae family, but extends to other plants in the Asterid clade.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">The Sol Genomics Network (SGN) is a resource for plant genetic, genomic, and phenotypic  information.  Our data is centered on the Solanaceae family, but extends to other plants in the Asterid clade.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara3645" /><flowPara
          id="flowPara6434"
-         style="text-align:justify;text-anchor:start">This brochure introduces SGN and highlights some of the tools and data available there.</flowPara></flowRoot>    <text
+         style="text-align:justify;text-anchor:start">This brochure introduces SGN and highlights some of the tools and data available.</flowPara></flowRoot>    <text
        id="text2306"
        y="827.4447"
        x="59.628098"
@@ -707,10 +779,10 @@
            y="14.121922"
            style="font-style:normal" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2930">SGN is the bioinformatics hub for the ongoing Tomato genome sequencing project. Tomato is being sequenced by an international consortium as a high quality reference sequence for the Asterids. Initially, a BAC by BAC strategy was pursued, later complemented by a next-generation whole genome shotgun. All sequence and annotations from the project are on SGN.</flowPara></flowRoot>    <flowRoot
+         id="flowPara2930">SGN is the bioinformatics hub for the ongoing Tomato genome sequencing project. Tomato has been sequenced by an international consortium as a high quality reference sequence for the Asterids. A next-generation whole genome shotgun assembly has been generated and assembed. The genome can be browsed using Gbrowse, or analyzed using BLAST among other tools.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3470"
-       transform="translate(23.47756,673.60141)"><flowRegion
+       transform="translate(23.47756,759.60141)"><flowRegion
          id="flowRegion3472"><rect
            id="rect3474"
            width="277.97989"
@@ -718,34 +790,7 @@
            x="14.469415"
            y="592.02472" /></flowRegion><flowPara
          id="flowPara3476"
-         style="text-align:justify;text-anchor:start">SGN makes the most of its data by meticulously integrating, comparing, and cross-referencing it to produce a complete view of its interrelationships. For example, users can compare the latest draft tomato chromosome assembly with maps and assemblies from potato, pepper, and others.</flowPara></flowRoot>    <g
-       id="g5123"
-       transform="translate(0,5)">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot3625"
-         transform="matrix(0.6571449,0,0,0.6571449,-162.69229,1180.5801)"><flowRegion
-           id="flowRegion3627"><rect
-             id="rect3629"
-             width="373.51273"
-             height="32.706623"
-             x="339.37354"
-             y="499.28894" /></flowRegion><flowPara
-           id="flowPara3631"
-           style="font-weight:bold">SGN Comparative Viewer — comparing draft chromosome 4 with EXPEN-2000 genetic map</flowPara><flowPara
-           id="flowPara3633"
-           style="font-weight:bold" /></flowRoot>      <text
-         xml:space="preserve"
-         style="font-size:6.13320684px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-         x="60.108082"
-         y="1534.0933"
-         id="text3451"><tspan
-           sodipodi:role="line"
-           id="tspan3453"
-           x="60.108082"
-           y="1534.0933">http://solgenomics.net/cview/map.pl?map_id=agp</tspan></text>
-    </g>
-    <a
+         style="text-align:justify;text-anchor:start">SGN integrates different data for comparing, and </flowPara></flowRoot>    <a
        id="a2470"
        transform="matrix(1.2341658,0,0,1.2341658,-146.20782,-69.253374)"
        inkscape:export-filename="test.png"
@@ -806,7 +851,7 @@
          sodipodi:role="line"
          id="tspan5454"
          x="713.62714"
-         y="397.12772">www.solgenomics.net</tspan></text>
+         y="397.12772">http://solgenomics.net</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:23.60420036px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -853,29 +898,13 @@
          id="flowRegion3814"><rect
            y="810.47546"
            x="345.95056"
-           height="59.074184"
-           width="277.89145"
+           height="194.13158"
+           width="281.42697"
            id="rect3816" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara3820">The SGN Locus and Phenotype database is a community-driven repository of gene and phenotype information. Our community annotation process is simple and effective:</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2999"
-       transform="translate(-309.43788,-771.86637)"
-       inkscape:export-filename="test.png"
-       inkscape:export-xdpi="299.94577"
-       inkscape:export-ydpi="299.94577"><flowRegion
-         id="flowRegion3001"><rect
-           id="rect3003"
-           width="279.59976"
-           height="219.03314"
-           x="346.9382"
-           y="1363.5068" /></flowRegion><flowPara
-         id="flowPara3009"
-         style="text-align:justify;text-anchor:start">One of SGN's principal activities as a clade-oriented database is to study gene networks and interactions across a broad range of species. Orthologous genotypes are inferred from related sequences, and experimental results extracted from the literature by SGN curators.</flowPara><flowPara
+         id="flowPara3820">The SGN Locus database is a community curated repository of gene information. Each locus can be assigned to a 'locus editor' from the research community, who can edit the locus information.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara4890" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara4892">SGN curators also investigate orthologous phenotypes based on shared ontology annotations, often discovering novel links between genotypes and phenotypes.</flowPara></flowRoot>    <text
+         id="flowPara2892">Loci data includes images, ontology annotations, publications, alleles and sequences, genetic map locations, and user comments.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:13.86394882px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        x="362.3284"
@@ -885,7 +914,7 @@
          id="tspan5005"
          x="362.3284"
          y="851.70502"
-         style="font-weight:bold;font-size:13">Comparative Map Viewer</tspan></text>
+         style="font-size:13px;font-weight:bold">Comparative Map Viewer</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5027"
@@ -897,7 +926,7 @@
            x="684"
            y="869" /></flowRegion><flowPara
          id="flowPara5033"
-         style="text-anchor:start;text-align:justify">View and compare genetic maps including maps you upload.</flowPara></flowRoot>    <image
+         style="text-align:justify;text-anchor:start">View and compare genetic maps of tomato, potato, pepper, and other species.</flowPara></flowRoot>    <image
        y="899.78583"
        x="382.14548"
        id="image5075"
@@ -928,7 +957,7 @@
            x="684"
            y="869" /></flowRegion><flowPara
          id="flowPara5192"
-         style="text-align:justify;text-anchor:start">Use these two integrated tools to seamlessly browse phylogenetic trees and multiple alignments.  Use either SGN gene families or your own uploaded data.</flowPara></flowRoot>    <text
+         style="text-align:justify;text-anchor:start">Use these two integrated tools to seamlessly browse phylogenetic trees and multiple alignments.  Use either SGN gene families or upload your own data.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
        x="362.24573"
@@ -938,17 +967,17 @@
          id="tspan5196"
          x="362.24573"
          y="1404.7185"
-         style="font-weight:bold;font-size:13">Intron Finder</tspan></text>
+         style="font-size:13px;font-weight:bold">Intron Finder</tspan></text>
     <text
        id="text6277"
        y="641.36945"
        x="383.78995"
-       style="font-size:14;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        xml:space="preserve"
        inkscape:export-filename="test.png"
        inkscape:export-xdpi="299.94577"
        inkscape:export-ydpi="299.94577"><tspan
-         style="font-weight:bold;font-size:14"
+         style="font-size:14px;font-weight:bold"
          y="641.36945"
          x="383.78995"
          id="tspan6279"
@@ -960,9 +989,9 @@
          id="text5214"
          y="1205.6875"
          x="691.40112"
-         style="font-size:12;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
-           style="font-size:13;font-weight:bold"
+           style="font-size:13px;font-weight:bold"
            y="1205.6875"
            x="691.40112"
            id="tspan5216"
@@ -1001,7 +1030,7 @@
          id="tspan8496"
          x="692.62366"
          y="861.45673"
-         style="font-weight:bold;font-size:13">BLAST</tspan></text>
+         style="font-size:13px;font-weight:bold">BLAST</tspan></text>
     <flowRoot
        style="display:inline"
        xml:space="preserve"
@@ -1014,11 +1043,11 @@
            x="684"
            y="869" /></flowRegion><flowPara
          id="flowPara8504"
-         style="text-align:justify;text-anchor:start">SGN's user-friendly BLAST tool offers a winning combination of power, speed, and ease of use.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start">SGN's BLAST tool combines power, speed, and ease of use.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5136" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5100">A wide-ranging selection of plant, organelle, and global DNA sets are available for BLAST, including sequences from SGN, TAIR, NCBI, and UniProt/Swiss-Prot, all updated daily or weekly.</flowPara><flowPara
+         id="flowPara5100">A wide-ranging selection of plant, organelle, and global DNA sets are available for BLAST, including sequences from SGN, TAIR, NCBI, and UniProt/Swiss-Prot, all updated daily or weekly. Up to date data-sets from the tomato genome project are available.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5102" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -1125,7 +1154,7 @@
          y="276.75641"
          x="383.62314"
          id="tspan6299"
-         sodipodi:role="line">Real-time QTL</tspan></text>
+         sodipodi:role="line">solQTL</tspan></text>
     <image
        y="672.17822"
        x="340.81827"
@@ -1161,7 +1190,7 @@
            y="791.42694"
            style="font-style:normal;font-weight:normal" /></flowRegion><flowPara
          id="flowPara28623"
-         style="text-align:justify;text-anchor:start">Use the SGN Intron Finder to predict locations of introns in a query sequence by sequence similarity to genes in <flowSpan
+         style="text-align:justify;text-anchor:start">Use the SGN Intron Finder to predict locations of introns in transcript sequences by sequence similarity to genes in <flowSpan
    style="font-style:italic;text-align:justify;text-anchor:start"
    id="flowSpan28631">Arabidopsis thaliana</flowSpan>.</flowPara></flowRoot>    <g
        id="g5138">
@@ -1185,78 +1214,56 @@
              style="font-style:normal;font-weight:normal"
              y="791.42694"
              x="666.44812"
-             height="41.75761"
-             width="284.85785"
+             height="53.778427"
+             width="296.87866"
              id="rect28637" /></flowRegion><flowPara
-           style="text-align:justify;text-anchor:start"
-           id="flowPara28639">Use the intuitive CAPS designer to design CAPS assays for genetic mapping.</flowPara></flowRoot>    </g>
-    <g
-       id="g5132"
-       transform="translate(0,4)">
-      <rect
-         rx="0"
-         ry="0"
-         y="1374.7434"
-         x="55.201023"
-         height="129.91579"
-         width="244.10686"
-         id="rect17292"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.28080809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
-      <image
-         xlink:href="comp_agp.png"
-         sodipodi:absref="/home/.rob_clear/cxgn/core/sgn-tools/doc/promotional_brochure/comp_agp.png"
-         width="197.11214"
-         height="127.29271"
-         id="image2632"
-         x="78.726158"
-         y="1375.5177" />
-    </g>
-    <g
-       id="g2588"
-       transform="translate(0,7.5355335)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         id="rect17290"
-         width="243.98767"
-         height="81.757484"
-         x="55.26062"
-         y="1149.303"
-         ry="0"
-         rx="0" />
-      <g
-         transform="matrix(1.0073553,0,0,1.0073553,14.408271,856.39261)"
-         id="g2393">
-        <text
-           xml:space="preserve"
-           style="font-size:7.38738728px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="46.065441"
-           y="383.91461"
-           id="text2381"><tspan
-             sodipodi:role="line"
-             x="46.065441"
-             y="383.91461"
-             id="tspan2385"
-             style="font-weight:bold">Tomato sequencing progress overview</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:6.97793055px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-           x="45.467773"
-           y="391.43808"
-           id="text2389"><tspan
-             sodipodi:role="line"
-             id="tspan2391"
-             x="45.467773"
-             y="391.43808">http://solgenomics.net/about/tomato_sequencing.pl</tspan></text>
-      </g>
-      <image
-         xlink:href="tgchrom.png"
-         sodipodi:absref="/home/.rob_clear/cxgn/core/sgn-tools/doc/promotional_brochure/tgchrom.png"
-         width="234.60265"
-         height="77.033699"
-         id="image2688"
-         x="59.304089"
-         y="1151.7153" />
-    </g>
+           id="flowPara3542">Use the intuitive CAPS designer to design CAPS assays for genetic mapping.</flowPara><flowPara
+           id="flowPara3544"
+           style="font-size:9px;fill:#0000ff">http://solgenomics.net/tools/caps_designer/caps_input.pl</flowPara><flowPara
+           id="flowPara3546"
+           style="font-size:9px" /><flowPara
+           id="flowPara3548"
+           style="font-size:9px" /></flowRoot>    </g>
+    <rect
+       rx="0"
+       ry="0"
+       y="1163.1041"
+       x="55.526215"
+       height="149.81566"
+       width="253.35599"
+       id="rect17290"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.93118775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.71275139px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="56.214153"
+       y="1339.6655"
+       id="text2381"
+       transform="scale(1.0105264,0.9895833)"><tspan
+         sodipodi:role="line"
+         x="56.214153"
+         y="1339.6655"
+         id="tspan2385"
+         style="font-weight:bold">Browse the tomato genome sequence at </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.22983456px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="55.509258"
+       y="1348.5388"
+       id="text2389"
+       transform="scale(1.0105264,0.9895833)"><tspan
+         sodipodi:role="line"
+         id="tspan2391"
+         x="55.509258"
+         y="1348.5388">http://solgenomics.net/organism/Solanum_lycopersicum/genome</tspan></text>
+    <image
+       height="142.87656"
+       width="246.83299"
+       xlink:href="sgn_gbrowse.png"
+       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/sgn_gbrowse.png"
+       id="image3503"
+       x="60.186852"
+       y="1164.4427" />
     <g
        id="g5106"
        transform="translate(0,3)">
@@ -1322,11 +1329,8 @@
            height="180.92094"
            x="366.68195"
            y="46.477596" /></flowRegion><flowPara
-         id="flowPara2537"
-         style="font-weight:bold">For sequenced species:</flowPara><flowPara
-         id="flowPara2531">   BAC end sequences</flowPara><flowPara
-         id="flowPara2533">   BAC sequences</flowPara><flowPara
-         id="flowPara2535">   WGS reads and assemblies</flowPara></flowRoot>    <text
+         id="flowPara2535"
+         style="font-weight:bold">   </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.63265303;font-family:Bitstream Vera Sans"
        x="711.05951"
@@ -1456,7 +1460,7 @@
            sodipodi:role="line"
            id="tspan2793"
            x="703.18964"
-           y="1520.875">http://solcyc.sgn.cornell.edu</tspan></text>
+           y="1520.875">http://solcyc.solgenomics.net/</tspan></text>
     </g>
     <g
        id="g5081"
@@ -1505,7 +1509,7 @@
            sodipodi:role="line"
            id="tspan2807"
            x="714.00122"
-           y="1063.0974">http://solgenomics.ne/tools/blast/</tspan></text>
+           y="1063.0974">http://solgenomics.net/tools/blast/</tspan></text>
     </g>
     <g
        id="g5114"
@@ -1713,7 +1717,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2912"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
          id="flowRegion2914"><rect
            id="rect2916"
            width="85.999992"
@@ -1735,10 +1739,10 @@
            x="346.9382"
            y="1363.5068" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2860">One of SGN's newest features is a repository for raw quantitative trait loci (QTL) data, coupled with R/QTL mapping software for on-the-fly QTL mapping analysis and visualization.</flowPara></flowRoot>    <flowRoot
+         id="flowPara2860">SGN contains a repository for raw quantitative trait loci (QTL) data, coupled with R/QTL mapping software for on-the-fly QTL mapping analysis and visualization, called solQTL.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3012"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
          id="flowRegion3014"><rect
            id="rect3016"
            width="64.749992"
@@ -1760,7 +1764,7 @@
            width="287.4556"
            id="rect3040" /></flowRegion><flowPara
          id="flowPara3046"
-         style="text-align:justify;text-anchor:start">Using this tool, researchers can quickly compare QTLs of their interest with other genetic and genomic maps in the database and identify candidate genes.</flowPara></flowRoot>    <text
+         style="text-align:justify;text-anchor:start">Using this tool, researchers can calculate and quickly compare QTLs of their interest with other genetic and genomic maps in the database and identify candidate genes.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:12.99124813px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
        x="803.90637"
@@ -1787,138 +1791,29 @@
          id="flowRegion4444"><rect
            y="46.477596"
            x="366.68195"
-           height="180.92094"
-           width="236.30748"
+           height="199.33095"
+           width="327.59045"
            id="rect4446" /></flowRegion><flowPara
          style="font-weight:bold"
-         id="flowPara4448">For many species:</flowPara><flowPara
-         id="flowPara4450">   Maps</flowPara><flowPara
-         id="flowPara4452">   Markers</flowPara><flowPara
-         id="flowPara4454">   Genetic Loci</flowPara><flowPara
-         id="flowPara4456">   Accessions</flowPara><flowPara
-         id="flowPara4458">   Phenotypes</flowPara><flowPara
+         id="flowPara3298" /><flowPara
          id="flowPara4470"
-         style="font-weight:normal">   Unigene builds</flowPara></flowRoot>    <g
-       id="g4983"
-       transform="translate(0,8)"
-       inkscape:export-filename="test.png"
-       inkscape:export-xdpi="299.94577"
-       inkscape:export-ydpi="299.94577">
-      <g
-         id="g4961"
-         transform="matrix(1.0756937,0,0,1.0756937,-13.130857,-22.011648)">
-        <image
-           y="298.33984"
-           x="55.275066"
-           id="image4434"
-           height="108.0285"
-           width="144.03464"
-           sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/112 12jul06.JPG"
-           xlink:href="112 12jul06.JPG" />
-        <image
-           y="-500.51804"
-           x="-184.44539"
-           id="image4803"
-           height="96.880005"
-           width="129.17032"
-           sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/pe1138.jpg"
-           xlink:href="pe1138.jpg"
-           transform="scale(-1,-1)" />
-        <image
-           y="381.67035"
-           x="177.01038"
-           id="image3549"
-           height="120.50737"
-           width="120.50457"
-           sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/sunshine.png"
-           xlink:href="sunshine.png"
-           style="stroke:#000000;stroke-width:1.60459793;stroke-opacity:1" />
-        <image
-           y="298.33984"
-           x="172.69044"
-           id="image4716"
-           height="85.229202"
-           width="126.02915"
-           sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/e0902m1flw.jpg"
-           xlink:href="e0902m1flw.jpg" />
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.33867104;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-           id="rect20268"
-           width="243.98767"
-           height="203.3799"
-           x="55.26062"
-           y="297.8139"
-           ry="0"
-           rx="0" />
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4807"
-           width="5.5978088"
-           height="202.98929"
-           x="172.63664"
-           y="298.33984" />
-        <rect
-           y="401.62018"
-           x="55.386642"
-           height="2.2089581"
-           width="120.01938"
-           id="rect4809"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4811"
-           width="121.61037"
-           height="2.2089581"
-           x="177.13017"
-           y="383.05862" />
-      </g>
-      <g
-         id="g4971"
-         transform="translate(-5.6568544,22)">
-        <flowRoot
-           style="display:inline"
-           transform="matrix(0.6571449,0,0,0.6571449,-162.92362,175.05554)"
-           id="flowRoot4977"
-           xml:space="preserve"><flowRegion
-             id="flowRegion4979"><rect
-               y="499.28894"
-               x="339.37354"
-               height="35.302677"
-               width="373.40213"
-               id="rect4981" /></flowRegion><flowPara
-             style="font-weight:bold"
-             id="flowPara4985">SGN Locus and Phenotype Database</flowPara></flowRoot>        <text
-           id="text4987"
-           y="537.43158"
-           x="64.814636"
-           style="font-size:6.0714426px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
-           xml:space="preserve"
-           transform="scale(0.9899295,1.0101729)"><tspan
-             y="537.43158"
-             x="64.814636"
-             id="tspan4989"
-             sodipodi:role="line">http://solgenomics.net/search/direct_search.pl?search=phenotypes</tspan></text>
-        <text
-           id="text4813"
-           y="518.85175"
-           x="60.409073"
-           style="font-size:6.13320684px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
-           xml:space="preserve"><tspan
-             id="tspan4817"
-             y="518.85175"
-             x="60.409073"
-             sodipodi:role="line">Clockwise from top left: eggplant flower mutant (eeg112m2),</tspan><tspan
-             y="526.51825"
-             x="60.409073"
-             sodipodi:role="line"
-             id="tspan4823">tomato flower mutant (e0902m1), SGN gene network viewer display,</tspan><tspan
-             y="534.18475"
-             x="60.409073"
-             sodipodi:role="line"
-             id="tspan4821">pepper flower mutant (pe1138).</tspan></text>
-      </g>
-    </g>
-    <g
+         style="font-size:12px;font-weight:normal">The breeders portal at SGN</flowPara><flowPara
+         style="font-size:12px;font-weight:normal"
+         id="flowPara3300">has direct links to breeder-</flowPara><flowPara
+         style="font-size:12px;font-weight:normal"
+         id="flowPara3302">relevant tools, data, and </flowPara><flowPara
+         style="font-size:12px;font-weight:normal"
+         id="flowPara3318">tutorials.</flowPara><flowPara
+         style="font-size:12px;font-weight:normal"
+         id="flowPara3306" /><flowPara
+         style="font-size:12px;font-weight:normal"
+         id="flowPara3310" /><flowPara
+         style="font-size:12px;font-weight:normal"
+         id="flowPara3646">Much of the phenotyping and genotyping data is submitted by the SolCAP project (<flowSpan
+   style="fill:#0000ff"
+   id="flowSpan3639">http://solcap.msu.edu</flowSpan>),</flowPara><flowPara
+         style="font-size:12px;font-weight:normal"
+         id="flowPara3643">yielding phenotyping experiments of tomato and potato accessions, and SNP genotyping data</flowPara></flowRoot>    <g
        id="g4902"
        transform="translate(0,12)"
        inkscape:export-filename="test.png"
@@ -1935,38 +1830,16 @@
              width="280.50909"
              id="rect2604" /></flowRegion><flowPara
            style="text-align:justify;text-anchor:start"
-           id="flowPara2606">An expert on a particular locus logs into SGN and requests editing privileges on the locus of his/her interest.</flowPara><flowPara
-           style="text-align:justify;text-anchor:start"
-           id="flowPara2610">An SGN curator reviews the request and grants access.</flowPara><flowPara
-           id="flowPara4870"
-           style="text-align:justify;text-anchor:start">The editor adds information to the locus using SGN's web-based tools.</flowPara><flowPara
-           style="text-align:justify;text-anchor:start"
-           id="flowPara2612">The new information is immediately visible on SGN!</flowPara></flowRoot>      <flowRoot
+           id="flowPara2612" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot4839"
          transform="matrix(0.91625,0,0,0.91625,-272.93171,-647.9192)"><flowRegion
            id="flowRegion4841"><rect
              id="rect4843"
-             width="266.90067"
-             height="159.77788"
+             width="286.19415"
+             height="26.266861"
              x="347.40326"
              y="875.65411" /></flowRegion><flowPara
-           id="flowPara4851"
-           style="text-align:justify;text-anchor:start">1.</flowPara><flowPara
-           id="flowPara4872"
-           style="text-align:justify;text-anchor:start" /><flowPara
-           id="flowPara4874"
-           style="text-align:justify;text-anchor:start" /><flowPara
-           id="flowPara4860"
-           style="text-align:justify;text-anchor:start">2.</flowPara><flowPara
-           id="flowPara4876"
-           style="text-align:justify;text-anchor:start" /><flowPara
-           id="flowPara4862"
-           style="text-align:justify;text-anchor:start">3.</flowPara><flowPara
-           id="flowPara4878"
-           style="text-align:justify;text-anchor:start" /><flowPara
-           id="flowPara4864"
-           style="text-align:justify;text-anchor:start">4.</flowPara><flowPara
            id="flowPara4866"
            style="text-align:justify;text-anchor:start" /></flowRoot>    </g>
     <g
@@ -1982,10 +1855,10 @@
          height="3.2542982"
          width="18.601362"
          id="rect6103"
-         style="opacity:1;fill:url(#linearGradient9961);fill-opacity:1;stroke:none;stroke-width:0.57200002999999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient9961);fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="scale(-1,1)" />
       <rect
-         style="opacity:1;fill:url(#linearGradient9763);fill-opacity:1;stroke:none;stroke-width:0.57200002999999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient9763);fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect5689"
          width="303.37857"
          height="3.2542982"
@@ -2042,7 +1915,7 @@
            y="61.256409"
            x="383.29327"
            id="tspan2511"
-           sodipodi:role="line">SGN Data</tspan></text>
+           sodipodi:role="line">Breeders Toolbox</tspan></text>
       <use
          height="1530"
          width="990"
@@ -2091,7 +1964,7 @@
          id="tspan3806"
          x="59.640335"
          y="61.746929"
-         style="font-size:14px;font-weight:bold">Locus and Phenotype Data</tspan></text>
+         style="font-size:14px;font-weight:bold">Loci</tspan></text>
     <g
        transform="translate(-324,-580)"
        id="use10468"
@@ -2156,7 +2029,7 @@
        id="text2823"><tspan
          sodipodi:role="line"
          id="tspan2825"
-         x="840.77826"
+         x="838.8681"
          y="326.12277">Clade-oriented database for</tspan><tspan
          sodipodi:role="line"
          x="838.8681"
@@ -2212,7 +2085,7 @@
              x="339.37354"
              y="499.28894" /></flowRegion><flowPara
            id="flowPara2937"
-           style="font-weight:bold">SGN real-time QTL</flowPara><flowPara
+           style="font-weight:bold">solQTL</flowPara><flowPara
            id="flowPara2939"
            style="font-weight:bold" /></flowRoot>      <text
          xml:space="preserve"
@@ -2246,41 +2119,14 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4600"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10"><flowRegion
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
          id="flowRegion4602"><rect
            id="rect4604"
            width="121"
            height="44"
            x="743"
            y="575" /></flowRegion><flowPara
-         id="flowPara4606" /></flowRoot>    <image
-       y="79.285889"
-       x="530.14966"
-       id="image4750"
-       height="91.75"
-       width="122.33334"
-       sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/pimpinellifolium_fruit.jpg"
-       xlink:href="pimpinellifolium_fruit.jpg" />
-    <flowRoot
-       transform="translate(173.01693,-390.02153)"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
-       id="flowRoot4754"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4756"><rect
-           y="565"
-           x="356"
-           height="16.40596"
-           width="123.44291"
-           id="rect4758"
-           style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         style="font-size:6.13320017px;text-align:end;text-anchor:end"
-         id="flowPara4779"><flowSpan
-   id="flowSpan2843"
-   style="font-size:6.13320017px;font-weight:bold;text-align:end;text-anchor:end"><flowSpan
-   style="font-style:italic;text-align:end;text-anchor:end"
-   id="flowSpan4783">Solanum pimpinellifolium</flowSpan> fruit</flowSpan></flowPara><flowPara
-         style="font-size:6.13320017px;text-align:end;text-anchor:end"
-         id="flowPara2846">© Dr. Peter G. Walley, WHRI, UK</flowPara></flowRoot>    <rect
+         id="flowPara4606" /></flowRoot>    <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.43999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4785"
        width="127.89792"
@@ -2295,8 +2141,162 @@
        id="text2839"
        transform="translate(10.941326,22.035891)"><tspan
          sodipodi:role="line"
-         id="tspan2841"></tspan></text>
-  </g>
+         id="tspan2841"
+         x="562.32666"
+         y="163.69292" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2851"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion2853"><rect
+           id="rect2855"
+           width="26.870056"
+           height="109.60155"
+           x="29.698484"
+           y="149.7276" /></flowRegion><flowPara
+         id="flowPara2857"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2871"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion2873"><rect
+           id="rect2875"
+           width="218.49599"
+           height="118.08683"
+           x="15.556349"
+           y="141.24232" /></flowRegion><flowPara
+         id="flowPara2877"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2879"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion2881"><rect
+           id="rect2883"
+           width="329.51175"
+           height="159.09901"
+           x="-4.2426405"
+           y="125.68597" /></flowRegion><flowPara
+         id="flowPara2885"></flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="translate(-323.31777,-172.38609)"
+       id="g2894"
+       inkscape:export-filename="test.png"
+       inkscape:export-xdpi="299.94577"
+       inkscape:export-ydpi="299.94577">
+      <rect
+         ry="0"
+         rx="0"
+         y="643.53302"
+         x="-362.8461"
+         height="3.2542982"
+         width="18.601362"
+         id="rect2896"
+         style="opacity:1;fill:url(#linearGradient2906);fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="scale(-1,1)" />
+      <rect
+         style="opacity:1;fill:url(#linearGradient2908);fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2898"
+         width="293.51779"
+         height="3.2542982"
+         x="362.84607"
+         y="643.53302"
+         rx="0"
+         ry="0" />
+      <g
+         id="g2900"
+         transform="translate(4,0)">
+        <path
+           style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:13.94999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 357.35704,623.57222 L 357.55806,626.56337 C 357.59316,626.56324 357.62816,626.56083 357.66324,626.56101 C 358.0082,626.56275 358.35178,626.57948 358.69403,626.61058 L 358.486,623.61472 C 358.11137,623.58657 357.73405,623.57218 357.35704,623.57222 z M 353.21053,624.16242 C 352.87071,624.26198 352.53306,624.3746 352.19844,624.50002 C 352.17967,624.50705 352.16106,624.51416 352.14235,624.52127 L 353.37882,627.33771 C 353.46689,627.30413 353.55598,627.27035 353.64528,627.23855 C 353.91407,627.14289 354.18423,627.0586 354.45635,626.98359 L 353.21053,624.16242 z M 362.39644,624.43864 L 361.59706,627.24091 C 361.9553,627.36658 362.30723,627.50911 362.65122,627.66823 L 363.44826,624.8565 C 363.10357,624.70384 362.75223,624.56485 362.39644,624.43864 z M 348.3067,626.64363 C 348.00604,626.87119 347.71428,627.10937 347.43252,627.3566 L 349.59226,629.62297 C 349.8764,629.37329 350.17237,629.13474 350.48047,628.91001 L 348.3067,626.64363 z M 366.71593,626.85611 L 365.05405,629.16026 C 365.34937,629.39953 365.63224,629.65525 365.90251,629.92516 L 367.56673,627.60685 C 367.29337,627.34422 367.00882,627.09469 366.71593,626.85611 z M 357.64454,627.82168 L 357.80582,630.1943 C 358.18947,630.19348 358.57057,630.2191 358.9488,630.26985 L 358.78285,627.88779 C 358.406,627.84636 358.02545,627.82326 357.64454,627.82168 z M 373.70704,627.88071 L 370.8905,629.79296 C 371.08295,630.11739 371.26362,630.45074 371.43276,630.79395 L 374.25165,628.86989 C 374.07984,628.53455 373.89898,628.20512 373.70704,627.88071 z M 354.97058,628.14984 C 354.66387,628.22821 354.36022,628.3212 354.059,628.4284 C 354.00104,628.44904 353.94342,628.47068 353.88603,628.49215 L 354.87007,630.73728 C 354.99183,630.69122 355.11431,630.64622 355.23937,630.60508 C 355.47961,630.52604 355.7218,630.458 355.9663,630.40205 L 354.97058,628.14984 z M 361.24879,628.45673 L 360.61769,630.66882 C 360.98031,630.79586 361.3338,630.9486 361.67419,631.12446 L 362.30295,628.89821 C 361.96048,628.73191 361.60804,628.58552 361.24879,628.45673 z M 351.35698,629.82838 C 351.04444,630.04908 350.74563,630.28523 350.45943,630.53426 L 352.18675,632.34736 C 352.4738,632.09633 352.77721,631.86054 353.09834,631.64619 L 351.35698,629.82838 z M 364.31778,630.1825 L 363.01117,631.99324 C 363.30918,632.23392 363.59048,632.49869 363.85029,632.78411 L 365.15689,630.96157 C 364.89129,630.68584 364.61239,630.42406 364.31778,630.1825 z M 369.85269,630.49884 L 367.55739,632.05698 C 367.75029,632.3835 367.92793,632.72432 368.08798,633.07685 L 370.38795,631.50691 C 370.22234,631.16063 370.04423,630.82469 369.85269,630.49884 z M 344.46404,630.82699 C 344.26114,631.14477 344.06816,631.4688 343.88671,631.79965 L 346.73597,633.20905 C 346.91829,632.87585 347.11344,632.55065 347.32266,632.23403 L 344.46404,630.82699 z M 357.88997,631.45497 L 358.00683,633.16893 C 358.39469,633.16454 358.78139,633.20113 359.15917,633.27752 L 359.03996,631.55885 C 358.66114,631.49398 358.27685,631.45865 357.88997,631.45497 z M 356.4852,631.5801 C 356.19613,631.63554 355.91002,631.70901 355.62738,631.802 C 355.54238,631.82998 355.45821,631.8587 355.37495,631.88936 L 356.09953,633.53957 C 356.25906,633.47806 356.42219,633.42268 356.59038,633.37431 C 356.79702,633.31488 357.00583,633.26862 357.21681,633.23501 L 356.4852,631.5801 z M 360.26943,631.88228 L 359.82065,633.45694 C 360.18947,633.58128 360.54407,633.74425 360.87481,633.94563 L 361.32359,632.36388 C 360.98739,632.17426 360.63427,632.01409 360.26943,631.88228 z M 353.98421,632.57164 C 353.65529,632.77737 353.34398,633.00653 353.05392,633.25628 L 354.34182,634.60901 C 354.62965,634.35408 354.944,634.1257 355.28379,633.92909 L 353.98421,632.57164 z M 366.51959,632.76049 L 364.73149,633.97632 C 364.92632,634.30465 365.09827,634.65085 365.24338,635.01744 L 367.03849,633.79217 C 366.88491,633.43394 366.7114,633.08961 366.51959,632.76049 z M 348.45863,632.79119 C 348.24423,633.10592 348.04734,633.43259 347.86259,633.76621 L 350.14855,634.89703 C 350.33348,634.56033 350.53544,634.234 350.75861,633.92201 L 348.45863,632.79119 z M 362.27256,633.01311 L 361.35865,634.28085 C 361.66363,634.52021 361.94116,634.79632 362.18141,635.10714 L 363.09766,633.82995 C 362.84745,633.53184 362.57114,633.25831 362.27256,633.01311 z M 375.91586,633.75912 L 372.68794,634.56416 C 372.75669,634.94004 372.81105,635.31695 372.84922,635.69499 L 376.08182,634.8805 C 376.03891,634.50607 375.98318,634.13179 375.91586,633.75912 z M 351.90393,634.48626 C 351.67179,634.79308 351.46132,635.11517 351.27284,635.45183 L 353.00016,636.30644 C 353.18556,635.96492 353.40191,635.64254 353.64528,635.34086 L 351.90393,634.48626 z M 356.7727,634.63735 C 356.71654,634.65577 356.66166,634.67596 356.60675,634.69637 L 356.62076,634.7247 C 356.67076,634.69461 356.72149,634.6655 356.7727,634.63735 z M 363.69602,634.67748 L 362.46189,635.51556 C 362.66181,635.8419 362.82601,636.19756 362.94339,636.58501 L 364.18221,635.73985 C 364.05174,635.36325 363.88899,635.00907 363.69602,634.67748 z M 371.4725,634.8687 L 368.85697,635.52265 C 368.92603,635.90307 368.97366,636.28456 368.99955,636.66764 L 371.6221,636.00662 C 371.5892,635.62629 371.53928,635.24692 371.4725,634.8687 z M 356.19069,634.87579 C 355.83385,635.05093 355.50692,635.26879 355.21366,635.52265 L 355.43571,635.75637 C 355.67893,635.45627 355.95964,635.18744 356.27017,634.95842 L 356.19069,634.87579 z M 367.64621,635.82719 L 365.62437,636.33241 C 365.69573,636.71618 365.73476,637.10428 365.74124,637.49156 L 367.76775,636.97927 C 367.75146,636.59454 367.71206,636.2096 367.64621,635.82719 z M 354.81163,635.91455 C 354.54882,636.20249 354.32088,636.52367 354.12912,636.86596 L 354.6714,637.13272 C 354.79926,636.76377 354.97301,636.41731 355.18562,636.09869 L 354.81163,635.91455 z M 342.18509,636.24506 C 342.0986,636.61348 342.02622,636.98529 341.96304,637.35936 L 345.18629,637.70641 C 345.24932,637.33004 345.32556,636.95649 345.41769,636.58737 L 342.18509,636.24506 z M 364.41361,636.6346 L 363.10234,636.96275 C 363.24194,637.31779 363.34053,637.69427 363.3875,638.0865 L 364.49073,637.80791 C 364.50472,637.41735 364.48051,637.02339 364.41361,636.6346 z M 346.67754,636.71958 C 346.57977,637.089 346.49775,637.46311 346.43212,637.84097 L 349.03128,638.1219 C 349.09586,637.74104 349.18034,637.36318 349.28606,636.99344 L 346.67754,636.71958 z M 350.55293,637.12801 C 350.43725,637.49621 350.34335,637.87203 350.27477,638.2541 L 352.26155,638.46894 C 352.32589,638.08348 352.4228,637.70514 352.54905,637.33811 L 350.55293,637.12801 z M 353.83461,637.47505 C 353.68725,637.83669 353.57843,638.21522 353.50737,638.60351 L 354.41895,638.70266 C 354.4186,638.67915 354.41895,638.65544 354.41895,638.63184 C 354.41895,638.25811 354.46313,637.89575 354.54751,637.54822 L 353.83461,637.47505 z M 363.41788,638.49727 C 363.41919,638.54218 363.42022,638.58661 363.42022,638.63184 C 363.42022,638.98062 363.38181,639.32074 363.30803,639.64698 L 364.08871,639.72962 C 364.23252,639.36779 364.34105,638.99114 364.40893,638.60351 L 363.41788,638.49727 z M 365.65008,638.73807 C 365.58828,639.12248 365.49525,639.50003 365.37194,639.86654 L 367.36806,640.07665 C 367.48154,639.7091 367.57254,639.33401 367.63919,638.9529 L 365.65008,638.73807 z M 368.88268,639.08748 C 368.81976,639.46739 368.73642,639.84221 368.63258,640.21123 L 371.2411,640.48508 C 371.33738,640.11631 371.41755,639.74309 371.48185,639.36605 L 368.88268,639.08748 z M 354.447,639.13942 L 353.41622,639.3991 C 353.39932,639.7896 353.42242,640.18311 353.48634,640.57243 L 354.72047,640.26315 C 354.58483,639.90805 354.49033,639.53102 354.447,639.13942 z M 372.72768,639.50062 C 372.66581,639.87685 372.59188,640.25056 372.50095,640.61964 L 375.73121,640.9596 C 375.81657,640.59179 375.88878,640.22103 375.95093,639.84765 L 372.72768,639.50062 z M 352.16571,639.71545 L 350.13687,640.22775 C 350.15144,640.6123 350.18968,640.99739 350.25373,641.37983 L 352.27557,640.87461 C 352.20663,640.49054 352.16987,640.1027 352.16571,639.71545 z M 363.19583,640.04832 C 363.0749,640.41993 362.90679,640.77172 362.70031,641.09416 L 363.12337,641.30192 C 363.38423,641.0111 363.60952,640.69052 363.79887,640.34579 L 363.19583,640.04832 z M 348.90273,640.53937 L 346.28253,641.2004 C 346.31424,641.5805 346.36193,641.96023 346.42744,642.33832 L 349.04064,641.68437 C 348.97326,641.30396 348.92702,640.9223 348.90273,640.53937 z M 354.89578,640.66686 L 353.71307,641.47426 C 353.84144,641.8523 354.00104,642.2083 354.19222,642.54134 L 355.42637,641.70326 C 355.29381,641.48295 355.17677,641.25012 355.08043,641.00209 C 355.01451,640.89346 354.95271,640.78121 354.89578,640.66686 z M 364.92549,640.90531 C 364.7424,641.24779 364.53077,641.57248 364.28972,641.8756 L 366.0264,642.73022 C 366.25727,642.42206 366.46573,642.09772 366.65282,641.75992 L 364.92549,640.90531 z M 362.45955,641.43648 C 362.22223,641.74143 361.94717,642.01356 361.64147,642.24861 L 361.74898,642.35956 C 362.10216,642.1827 362.4242,641.96229 362.71433,641.70798 L 362.45955,641.43648 z M 345.05306,641.51202 L 341.82046,642.32651 C 341.86245,642.70094 341.9177,643.07517 341.98408,643.4479 L 345.20967,642.6405 C 345.14229,642.26529 345.09002,641.88929 345.05306,641.51202 z M 355.71153,642.12348 L 354.79294,643.40304 C 355.04153,643.70133 355.31874,643.9742 355.61569,644.21988 L 356.52962,642.95449 C 356.22553,642.71353 355.95044,642.43594 355.71153,642.12348 z M 352.65189,642.19666 L 350.85444,643.42192 C 351.00666,643.78071 351.17819,644.12622 351.36867,644.45596 L 353.15677,643.2425 C 352.96343,642.91304 352.79532,642.56436 352.65189,642.19666 z M 367.77944,642.31706 C 367.59572,642.65472 367.39144,642.97903 367.16938,643.29209 L 369.46936,644.42527 C 369.68315,644.10938 369.88137,643.78265 370.0654,643.4479 L 367.77944,642.31706 z M 361.29554,642.49178 C 361.20954,642.54589 361.12115,642.59691 361.03141,642.64521 C 361.12902,642.61572 361.22496,642.58142 361.31891,642.54606 L 361.29554,642.49178 z M 363.58617,642.62161 C 363.30054,642.87706 362.98855,643.10615 362.65122,643.30389 L 363.94847,644.65899 C 364.27587,644.45235 364.58544,644.22236 364.87407,643.97199 L 363.58617,642.62161 z M 357.0228,643.29916 L 356.57636,644.88092 C 356.91042,645.06972 357.26103,645.23085 357.62351,645.36251 L 358.07463,643.79021 C 357.70689,643.66528 357.35243,643.50077 357.0228,643.29916 z M 361.82612,643.70286 C 361.6607,643.76729 361.49134,643.82494 361.31657,643.8752 C 361.11587,643.93293 360.91133,643.97641 360.70651,644.00977 L 361.43811,645.66469 C 361.72171,645.60958 362.0022,645.5364 362.27957,645.44514 C 362.3703,645.4153 362.45963,645.38362 362.54837,645.35071 L 361.82612,643.70286 z M 358.74779,643.97199 L 358.86933,645.69066 C 359.24813,645.75529 359.63249,645.78872 360.01932,645.79218 L 359.90245,644.08059 C 359.51398,644.0851 359.12617,644.04851 358.74779,643.97199 z M 371.19201,644.00505 C 371.01041,644.33934 370.81396,644.6647 370.60534,644.98242 L 373.46395,646.38947 C 373.66626,646.07098 373.85812,645.74598 374.03895,645.41445 L 371.19201,644.00505 z M 349.80263,644.13961 L 347.50264,645.70956 C 347.66737,646.05627 347.84722,646.39127 348.0379,646.71762 L 350.32853,645.16184 C 350.13673,644.83461 349.96151,644.49282 349.80263,644.13961 z M 354.04264,644.44888 L 352.7337,646.26906 C 352.999,646.54581 353.27836,646.80798 353.57282,647.05049 L 354.87941,645.24211 C 354.58171,645.00046 354.30195,644.73533 354.04264,644.44888 z M 365.74124,644.88327 C 365.45548,645.1347 365.15408,645.36944 364.83433,645.58443 L 366.57335,647.40226 C 366.88521,647.18083 367.18305,646.94367 367.46857,646.69401 L 365.74124,644.88327 z M 356.22341,646.12033 L 355.59465,648.34422 C 355.93658,648.51068 356.28776,648.65901 356.64647,648.78805 L 357.27757,646.57361 C 356.91594,646.4464 356.56285,646.29612 356.22341,646.12033 z M 346.45783,646.42252 L 343.63661,648.34658 C 343.80738,648.68183 343.99027,649.01138 344.18122,649.33575 L 346.99777,647.42349 C 346.80625,647.09935 346.62604,646.76543 346.45783,646.42252 z M 363.05558,646.50278 C 362.92775,646.55147 362.79906,646.59882 362.66758,646.64208 C 362.43278,646.71932 362.1959,646.78517 361.95701,646.84038 L 362.95274,649.09258 C 363.25383,649.01513 363.55216,648.92402 363.84796,648.81875 C 363.9122,648.79588 363.97608,648.77183 364.03962,648.74792 L 363.05558,646.50278 z M 358.95816,646.97731 L 359.12645,649.35937 C 359.50331,649.40071 359.88383,649.42397 360.26475,649.42547 L 360.10347,647.05285 C 359.71903,647.05385 359.33714,647.02807 358.95816,646.97731 z M 351.98808,647.30781 L 350.32386,649.62378 C 350.59658,649.88671 350.88007,650.13793 351.17233,650.37688 L 352.83654,648.07273 C 352.5418,647.83294 352.25773,647.57822 351.98808,647.30781 z M 368.33807,647.60765 C 368.05497,647.85761 367.75919,648.09549 367.4522,648.32061 L 369.62363,650.58698 C 369.92385,650.35885 370.2165,650.12182 370.49781,649.87402 L 368.33807,647.60765 z M 355.24639,649.57419 L 354.44934,652.38593 C 354.79327,652.5386 355.14383,652.67982 355.49882,652.80615 L 356.2982,650.00387 C 355.94037,649.87796 355.58995,649.73351 355.24639,649.57419 z M 364.54684,649.90472 C 364.45267,649.9408 364.35725,649.97693 364.26168,650.01096 C 363.99828,650.1047 363.73353,650.18562 363.46697,650.25883 L 364.71513,653.08237 C 365.04869,652.98417 365.37998,652.87264 365.70851,652.74949 C 365.73353,652.74011 365.75837,652.73066 365.78331,652.72116 L 364.54684,649.90472 z M 359.21526,650.63892 L 359.42562,653.63479 C 359.7995,653.66282 360.17602,653.67735 360.55224,653.67729 L 360.35123,650.6885 C 359.97147,650.69003 359.5919,650.673 359.21526,650.63892 z"
+           id="path2902"
+           sodipodi:nodetypes="ccsccccsccsccccccccccccccccccccccccccccsccscccccccccccccccccccccccccccccccccsccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccsccccccccccccccccccccccccccccccccccccccsccscccccccccccccccccccccccsccsccccccc" />
+        <path
+           sodipodi:nodetypes="ccsccccsccsccccccccccccccccccccccccccccsccscccccccccccccccccccccccccccccccccsccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccsccccccccccccccccccccccccccccccccccccccsccscccccccccccccccccccccccsccsccccccc"
+           id="path2904"
+           d="M 357.53229,623.68082 L 357.73111,626.60987 C 357.76582,626.60974 357.80044,626.60738 357.83514,626.60756 C 358.17632,626.60926 358.51614,626.62564 358.85464,626.6561 L 358.64889,623.72243 C 358.27836,623.69487 357.90517,623.68078 357.53229,623.68082 z M 353.43116,624.25877 C 353.09506,624.35626 352.76111,624.46654 352.43015,624.58936 C 352.41159,624.59624 352.39318,624.60321 352.37467,624.61017 L 353.59761,627.36814 C 353.68472,627.33525 353.77283,627.30217 353.86115,627.27104 C 354.127,627.17736 354.39421,627.09482 354.66335,627.02137 L 353.43116,624.25877 z M 362.51653,624.52925 L 361.7259,627.27335 C 362.08022,627.39641 362.4283,627.53597 362.76852,627.69179 L 363.55684,624.93844 C 363.21592,624.78895 362.86843,624.65284 362.51653,624.52925 z M 348.58101,626.68847 C 348.28364,626.9113 347.99507,627.14453 347.71639,627.38664 L 349.8525,629.60596 C 350.13353,629.36145 350.42626,629.12785 350.73098,628.9078 L 348.58101,626.68847 z M 366.78874,626.89653 L 365.14505,629.15285 C 365.43714,629.38715 365.71691,629.63756 365.98423,629.90187 L 367.63023,627.63169 C 367.35986,627.37451 367.07843,627.13016 366.78874,626.89653 z M 357.81664,627.84206 L 357.97616,630.16542 C 358.35561,630.16462 358.73254,630.18971 359.10663,630.2394 L 358.94249,627.90679 C 358.56977,627.86622 358.19338,627.84361 357.81664,627.84206 z M 373.70333,627.89986 L 370.91762,629.77241 C 371.10796,630.0901 371.28666,630.41654 371.45395,630.75262 L 374.24198,628.8685 C 374.07205,628.54013 373.89317,628.21753 373.70333,627.89986 z M 355.17195,628.1634 C 354.8686,628.24015 354.56827,628.33121 354.27035,628.43619 C 354.21302,628.45639 354.15603,628.47758 354.09927,628.49861 L 355.07254,630.69713 C 355.19297,630.65202 355.31411,630.60796 355.4378,630.56767 C 355.67541,630.49028 355.91495,630.42365 356.15677,630.36886 L 355.17195,628.1634 z M 361.38144,628.46393 L 360.75725,630.63009 C 361.1159,630.7545 361.46552,630.90406 361.80219,631.07627 L 362.42406,628.89624 C 362.08534,628.7334 361.73676,628.59004 361.38144,628.46393 z M 351.5979,629.80709 C 351.28878,630.02322 350.99324,630.25447 350.71017,630.49832 L 352.41859,632.27378 C 352.7025,632.02797 353.00259,631.79707 353.3202,631.58717 L 351.5979,629.80709 z M 364.41684,630.15386 L 363.12453,631.92701 C 363.41928,632.1627 363.6975,632.42197 363.95447,632.70146 L 365.24677,630.91676 C 364.98407,630.64675 364.70823,630.39041 364.41684,630.15386 z M 369.89117,630.46364 L 367.62099,631.98943 C 367.81178,632.30917 367.98748,632.64292 368.14577,632.98813 L 370.42057,631.45078 C 370.25677,631.11169 370.08061,630.78273 369.89117,630.46364 z M 344.78041,630.78498 C 344.57973,631.09616 344.38886,631.41346 344.20939,631.73744 L 347.02747,633.11759 C 347.20779,632.7913 347.40081,632.47285 347.60774,632.16281 L 344.78041,630.78498 z M 358.05938,631.39992 L 358.17497,633.07829 C 358.55858,633.074 358.94105,633.10983 359.31469,633.18463 L 359.19679,631.50164 C 358.82211,631.43812 358.44203,631.40352 358.05938,631.39992 z M 356.66999,631.52245 C 356.38408,631.57674 356.10111,631.64869 355.82156,631.73975 C 355.73749,631.76714 355.65424,631.79526 355.57189,631.82529 L 356.28854,633.44124 C 356.44633,633.38101 356.60767,633.32678 356.77402,633.27941 C 356.9784,633.22122 357.18492,633.17592 357.39359,633.14301 L 356.66999,631.52245 z M 360.4128,631.81836 L 359.96893,633.36033 C 360.33372,633.48208 360.68443,633.64167 361.01155,633.83887 L 361.45542,632.28996 C 361.1229,632.10427 360.77365,631.94743 360.4128,631.81836 z M 354.19637,632.4934 C 353.87105,632.69487 353.56315,632.91927 353.27627,633.16383 L 354.55007,634.48848 C 354.83475,634.23884 355.14566,634.0152 355.48173,633.82268 L 354.19637,632.4934 z M 366.59455,632.67834 L 364.82602,633.86892 C 365.01872,634.19044 365.18879,634.52945 365.33231,634.88843 L 367.10777,633.6886 C 366.95587,633.3378 366.78426,633.00062 366.59455,632.67834 z M 348.73127,632.7084 C 348.51922,633.01659 348.32449,633.33648 348.14176,633.66317 L 350.4027,634.77052 C 350.5856,634.44081 350.78535,634.12125 351.00608,633.81575 L 348.73127,632.7084 z M 362.39401,632.92571 L 361.4901,634.16714 C 361.79174,634.40152 362.06623,634.6719 362.30385,634.97627 L 363.21008,633.72559 C 362.9626,633.43368 362.68932,633.16582 362.39401,632.92571 z M 375.88798,633.65623 L 372.69539,634.44456 C 372.76338,634.81264 372.81715,635.18172 372.8549,635.55191 L 376.05212,634.75434 C 376.00968,634.38768 375.95456,634.02117 375.88798,633.65623 z M 352.13886,634.36827 C 351.90926,634.66873 351.7011,634.98413 351.51468,635.3138 L 353.2231,636.15067 C 353.40647,635.81624 353.62045,635.50055 353.86115,635.20514 L 352.13886,634.36827 z M 356.95434,634.51623 C 356.8988,634.53427 356.84452,634.55404 356.79021,634.57402 L 356.80407,634.60176 C 356.85352,634.5723 356.90369,634.5438 356.95434,634.51623 z M 363.80189,634.55553 L 362.58126,635.37621 C 362.779,635.69577 362.9414,636.04405 363.05749,636.42346 L 364.28275,635.59584 C 364.15371,635.22706 363.99274,634.88023 363.80189,634.55553 z M 371.49325,634.74278 L 368.90635,635.38315 C 368.97465,635.75567 369.02176,636.12925 369.04737,636.50437 L 371.64121,635.85707 C 371.60867,635.48464 371.5593,635.11315 371.49325,634.74278 z M 356.3787,634.74972 C 356.02577,634.92123 355.70242,635.13456 355.41237,635.38315 L 355.63199,635.61202 C 355.87255,635.31815 356.15018,635.0549 356.45731,634.83063 L 356.3787,634.74972 z M 367.70884,635.68137 L 365.70913,636.1761 C 365.77971,636.5519 365.81831,636.93194 365.82472,637.31119 L 367.82905,636.80953 C 367.81294,636.43279 367.77397,636.05584 367.70884,635.68137 z M 355.01474,635.76691 C 354.7548,636.04888 354.52936,636.36339 354.3397,636.69857 L 354.87604,636.9598 C 355.0025,636.59851 355.17435,636.25924 355.38463,635.94723 L 355.01474,635.76691 z M 342.5264,636.09056 C 342.44086,636.45133 342.36927,636.81543 342.30678,637.18173 L 345.49475,637.52157 C 345.55709,637.15302 345.6325,636.78723 345.72362,636.42577 L 342.5264,636.09056 z M 364.51162,636.47201 L 363.2147,636.79335 C 363.35278,637.14103 363.45029,637.50968 363.49674,637.89377 L 364.5879,637.62097 C 364.60173,637.23851 364.57779,636.85274 364.51162,636.47201 z M 346.96968,636.55523 C 346.87298,636.91699 346.79186,637.28332 346.72694,637.65334 L 349.29766,637.92844 C 349.36153,637.55549 349.44508,637.18547 349.54965,636.8234 L 346.96968,636.55523 z M 350.80265,636.95518 C 350.68824,637.31574 350.59536,637.68376 350.52754,638.0579 L 352.49257,638.26828 C 352.55621,637.89082 352.65205,637.52033 352.77692,637.16092 L 350.80265,636.95518 z M 354.04841,637.29501 C 353.90266,637.64915 353.79504,638.01982 353.72475,638.40005 L 354.62636,638.49715 C 354.62601,638.47412 354.62636,638.4509 354.62636,638.42779 C 354.62636,638.06182 354.67005,637.70699 354.75351,637.36667 L 354.04841,637.29501 z M 363.52679,638.29602 C 363.52809,638.33999 363.5291,638.3835 363.5291,638.42779 C 363.5291,638.76933 363.49112,639.10239 363.41814,639.42186 L 364.19028,639.50278 C 364.33251,639.14846 364.43986,638.77963 364.50699,638.40005 L 363.52679,638.29602 z M 365.73456,638.53182 C 365.67343,638.90824 365.58142,639.27796 365.45946,639.63686 L 367.43373,639.84261 C 367.54597,639.48269 367.63598,639.11539 367.7019,638.74219 L 365.73456,638.53182 z M 368.93178,638.87397 C 368.86955,639.246 368.78712,639.61303 368.68441,639.97439 L 371.26438,640.24256 C 371.35961,639.88145 371.4389,639.51598 371.5025,639.14676 L 368.93178,638.87397 z M 354.6541,638.92483 L 353.6346,639.17912 C 353.61789,639.56151 353.64073,639.94686 353.70395,640.32809 L 354.92458,640.02524 C 354.79042,639.67751 354.69695,639.30831 354.6541,638.92483 z M 372.73469,639.27853 C 372.6735,639.64695 372.60038,640.01291 372.51044,640.37433 L 375.70535,640.70723 C 375.78977,640.34705 375.86119,639.98399 375.92266,639.61836 L 372.73469,639.27853 z M 352.39778,639.48891 L 350.39114,639.99057 C 350.40556,640.36714 350.44338,640.74423 350.50673,641.11873 L 352.50644,640.624 C 352.43825,640.2479 352.40189,639.86811 352.39778,639.48891 z M 363.30717,639.81487 C 363.18756,640.17876 363.02129,640.52325 362.81707,640.839 L 363.2355,641.04244 C 363.49351,640.75766 363.71633,640.44373 363.90361,640.10616 L 363.30717,639.81487 z M 349.17051,640.29572 L 346.57899,640.94303 C 346.61035,641.31524 346.65752,641.68708 346.72232,642.05732 L 349.30691,641.41695 C 349.24027,641.04444 349.19454,640.6707 349.17051,640.29572 z M 355.09797,640.42056 L 353.9282,641.2112 C 354.05517,641.5814 354.21302,641.93 354.40211,642.25613 L 355.62275,641.43545 C 355.49164,641.21971 355.37588,640.99172 355.2806,640.74884 C 355.2154,640.64246 355.15427,640.53254 355.09797,640.42056 z M 365.0179,640.65406 C 364.83681,640.98944 364.6275,641.30738 364.38909,641.60421 L 366.10676,642.44108 C 366.3351,642.13932 366.54128,641.82172 366.72632,641.49093 L 365.0179,640.65406 z M 362.57895,641.17421 C 362.34423,641.47283 362.07218,641.73931 361.76982,641.96947 L 361.87616,642.07812 C 362.22547,641.90494 362.54399,641.6891 362.83094,641.44007 L 362.57895,641.17421 z M 345.36298,641.24818 L 342.16576,642.04576 C 342.20729,642.41242 342.26194,642.77888 342.32759,643.14386 L 345.51787,642.35323 C 345.45123,641.98581 345.39953,641.61762 345.36298,641.24818 z M 355.90479,641.84694 L 354.99625,643.09994 C 355.24212,643.39204 355.5163,643.65924 355.81,643.89982 L 356.71392,642.6607 C 356.41316,642.42474 356.14108,642.15292 355.90479,641.84694 z M 352.87864,641.91861 L 351.10086,643.11843 C 351.25141,643.46977 351.42107,643.80811 351.60946,644.131 L 353.37799,642.94274 C 353.18677,642.62011 353.0205,642.27867 352.87864,641.91861 z M 367.84061,642.03651 C 367.6589,642.36716 367.45686,642.68473 367.23723,642.99129 L 369.51204,644.10095 C 369.72349,643.79162 369.91954,643.47167 370.10155,643.14386 L 367.84061,642.03651 z M 361.42768,642.20759 C 361.34262,642.26059 361.2552,642.31055 361.16644,642.35785 C 361.26298,642.32897 361.35787,642.29538 361.45079,642.26075 L 361.42768,642.20759 z M 363.69324,642.33473 C 363.41073,642.58488 363.10216,642.80921 362.76852,643.00285 L 364.05157,644.32982 C 364.37539,644.12746 364.68157,643.90225 364.96704,643.65708 L 363.69324,642.33473 z M 357.20171,642.99822 L 356.76015,644.54713 C 357.09056,644.73202 357.43733,644.8898 357.79584,645.01873 L 358.24202,643.47907 C 357.87831,643.35673 357.52773,643.19564 357.20171,642.99822 z M 361.95245,643.39354 C 361.78884,643.45663 361.62134,643.51308 361.44848,643.5623 C 361.24998,643.61883 361.04768,643.66141 360.8451,643.69407 L 361.56869,645.31464 C 361.84919,645.26067 362.12661,645.18901 362.40094,645.09964 C 362.49068,645.07042 362.57903,645.03941 362.6668,645.00717 L 361.95245,643.39354 z M 358.90782,643.65708 L 359.02803,645.34007 C 359.40268,645.40335 359.78283,645.43609 360.16543,645.43948 L 360.04984,643.76343 C 359.66562,643.76784 359.28205,643.73201 358.90782,643.65708 z M 371.21583,643.68945 C 371.03622,644.0168 370.84192,644.33541 370.63558,644.64653 L 373.4629,646.02437 C 373.663,645.71249 373.85276,645.39424 374.03161,645.06959 L 371.21583,643.68945 z M 350.06056,643.82122 L 347.78575,645.35857 C 347.94867,645.69808 348.12656,646.02613 348.31515,646.34571 L 350.58071,644.82223 C 350.39101,644.50179 350.2177,644.1671 350.06056,643.82122 z M 354.25416,644.12407 L 352.95955,645.90646 C 353.22195,646.17746 353.49825,646.43419 353.78949,646.67167 L 355.08178,644.90083 C 354.78733,644.6642 354.51064,644.40457 354.25416,644.12407 z M 365.82472,644.54944 C 365.54209,644.79565 365.24399,645.02552 364.92774,645.23604 L 366.64772,647.01613 C 366.95617,646.7993 367.25075,646.56707 367.53314,646.32259 L 365.82472,644.54944 z M 356.41107,645.76082 L 355.78919,647.93853 C 356.12738,648.10154 356.47471,648.2468 356.8295,648.37315 L 357.45369,646.20469 C 357.09602,646.08011 356.74679,645.93296 356.41107,645.76082 z M 346.75237,646.05673 L 343.96203,647.94085 C 344.13093,648.26914 344.31182,648.59184 344.50068,648.90949 L 347.2864,647.03693 C 347.09698,646.71951 346.91874,646.39253 346.75237,646.05673 z M 363.16846,646.13533 C 363.04202,646.18301 362.91474,646.22937 362.7847,646.27173 C 362.55247,646.34737 362.31819,646.41186 362.08191,646.46592 L 363.06674,648.67137 C 363.36454,648.59552 363.6596,648.5063 363.95216,648.40321 C 364.0157,648.38082 364.07888,648.35727 364.14173,648.33386 L 363.16846,646.13533 z M 359.11588,646.60001 L 359.28233,648.93261 C 359.65507,648.9731 360.03142,648.99587 360.40817,648.99734 L 360.24866,646.67398 C 359.86843,646.67496 359.49072,646.64971 359.11588,646.60001 z M 352.22209,646.92365 L 350.57609,649.19153 C 350.84582,649.44901 351.12621,649.69501 351.41527,649.92899 L 353.06127,647.67268 C 352.76975,647.43788 352.48879,647.18844 352.22209,646.92365 z M 368.39313,647.21726 C 368.11313,647.46203 367.82058,647.69498 367.51695,647.91542 L 369.66462,650.13474 C 369.96155,649.91134 370.251,649.67923 370.52923,649.43658 L 368.39313,647.21726 z M 355.44474,649.14298 L 354.65641,651.89634 C 354.99658,652.04584 355.3433,652.18413 355.69441,652.30784 L 356.48504,649.56373 C 356.13112,649.44044 355.78454,649.29899 355.44474,649.14298 z M 364.64339,649.46664 C 364.55025,649.50197 364.45588,649.53735 364.36135,649.57067 C 364.10084,649.66247 363.83899,649.74171 363.57534,649.8134 L 364.80984,652.57832 C 365.13975,652.48216 365.46741,652.37294 365.79235,652.25235 C 365.81709,652.24317 365.84166,652.23391 365.86633,652.22461 L 364.64339,649.46664 z M 359.37017,650.1856 L 359.57823,653.11928 C 359.94801,653.14672 360.32041,653.16095 360.69252,653.16089 L 360.49371,650.23415 C 360.1181,650.23564 359.74269,650.21897 359.37017,650.1856 z"
+           style="opacity:1;fill:url(#linearGradient2910);fill-opacity:1;stroke:none;stroke-width:13.94999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:15.89250469px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       x="59.650799"
+       y="468.7746"
+       id="text2912"
+       inkscape:export-filename="test.png"
+       inkscape:export-xdpi="299.94577"
+       inkscape:export-ydpi="299.94577"><tspan
+         sodipodi:role="line"
+         id="tspan2914"
+         x="59.650799"
+         y="468.7746"
+         style="font-size:14px;font-weight:bold">Phenotype data</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.8191824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rect3145"
+       width="320.78842"
+       height="160.87492"
+       x="18.484964"
+       y="237.00461"
+       ry="0"
+       rx="0" />
+    <image
+       y="238.46199"
+       x="19.630037"
+       id="image3213"
+       height="155.58804"
+       width="316.61972"
+       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/sun_locus.png"
+       xlink:href="sun_locus.png" />
+    <image
+       y="73.357903"
+       x="528.58868"
+       id="image3283"
+       height="96.159378"
+       width="128.60303"
+       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/BreedersToolBox.png"
+       xlink:href="BreedersToolBox.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3512"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion3514"><rect
+           id="rect3516"
+           width="321.02646"
+           height="335.16861"
+           x="16.970562"
+           y="1127.6562" /></flowRegion><flowPara
+         id="flowPara3518"></flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.39628768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="rect3620"
+       width="311.31183"
+       height="97.658211"
+       x="21.940786"
+       y="669.78778"
+       ry="0"
+       rx="0" />
+    <image
+       y="673.30927"
+       x="22.329237"
+       id="image3616"
+       height="85.7416"
+       width="308.15015"
+       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/sgn_pheno.png"
+       xlink:href="sgn_pheno.png" />
+    <flowRoot
+       style="display:inline"
+       transform="translate(-305.2085,-318.29609)"
+       id="flowRoot3622"
+       xml:space="preserve"
+       inkscape:export-filename="test.png"
+       inkscape:export-xdpi="299.94577"
+       inkscape:export-ydpi="299.94577"><flowRegion
+         id="flowRegion3624"><rect
+           y="810.47546"
+           x="345.95056"
+           height="194.13158"
+           width="281.42697"
+           id="rect3626" /></flowRegion><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara3630">The SGN phenotype database contains information on plant accessions from mutant and mapping populations as well as collections of varieties, breeder lines, and experimetally designed segregating populations. Each phenotyped line can be traced for crosses and experiments, such as phenotyping and genotyping. All phenotype data and annotations, such as ontologies, publications, and linked loci, are editable in a similar manner to the locus database</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
