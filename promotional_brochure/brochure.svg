@@ -15,7 +15,7 @@
    id="svg2160"
    sodipodi:version="0.32"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="brochure.svg"
+   sodipodi:docname="brochurenew.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    inkscape:export-filename="sgn_brochure_draft.png"
@@ -546,15 +546,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="516.63954"
-     inkscape:cy="382.90748"
+     inkscape:cx="393.18621"
+     inkscape:cy="203.39146"
      inkscape:current-layer="layer1"
      id="namedview2164"
      inkscape:window-width="1511"
      inkscape:window-height="938"
-     inkscape:window-x="86"
-     inkscape:window-y="25"
-     showguides="false"
+     inkscape:window-x="367"
+     inkscape:window-y="40"
+     showguides="true"
      inkscape:guide-bbox="true"
      width="11in"
      height="17in"
@@ -690,6 +690,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -784,18 +785,7 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara3435"></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara3437">The genome can be browsed using Gbrowse, or analyzed using BLAST and other tools.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3470"
-       transform="translate(23.47756,829.60141)"><flowRegion
-         id="flowRegion3472"><rect
-           id="rect3474"
-           width="277.97989"
-           height="120.55037"
-           x="14.469415"
-           y="592.02472" /></flowRegion><flowPara
-         id="flowPara3476"
-         style="text-align:justify;text-anchor:start">SGN integrates different data for comparing, and </flowPara></flowRoot>    <a
+         id="flowPara3437">The genome can be browsed using GBrowse, or analyzed using BLAST and other tools.</flowPara></flowRoot>    <a
        id="a2470"
        transform="matrix(1.2341658,0,0,1.2341658,-146.20782,-69.253374)"
        inkscape:export-filename="test.png"
@@ -2304,7 +2294,19 @@
        width="278.39371"
        id="rect17290"
        style="fill:none;stroke:#000000;stroke-width:1.93118763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-  </g>
+    <flowRoot
+       style="display:inline"
+       xml:space="preserve"
+       id="flowRoot3470"
+       transform="translate(23.530532,821.3542)"><flowRegion
+         id="flowRegion3472"><rect
+           id="rect3474"
+           width="277.97989"
+           height="120.55037"
+           x="14.469415"
+           y="592.02472" /></flowRegion><flowPara
+         id="flowPara3476"
+         style="text-align:justify;text-anchor:start">SGN makes the most of its genome data by meticulously integrating, comparing, and cross-referencing it to produce a complete view of its interrelationships. For example, users can compare the latest tomato genome assembly with maps and assemblies from potato, pepper, and others.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
