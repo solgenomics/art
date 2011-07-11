@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,8 +14,7 @@
    height="1530"
    id="svg2160"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docbase="/home/.rob_clear/cxgn/core/sgn-tools/doc/promotional_brochure"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="brochure.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -267,14 +267,14 @@
          id="g28308"
          style="display:inline">
         <image
-           style="display:inline"
-           y="808.03119"
-           x="622.5321"
-           id="image28310"
-           height="22.643227"
+           sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/sgn_logo.png"
+           xlink:href="sgn_logo.png"
            width="27.631483"
-           sodipodi:absref="/crypt/rob/cxgn/sgn_logo.png"
-           xlink:href="sgn_logo.png" />
+           height="22.643227"
+           id="image28310"
+           x="622.5321"
+           y="808.03119"
+           style="display:inline" />
         <path
            style="fill:url(#linearGradient8456);fill-opacity:1;stroke:#000000;stroke-width:0.49669269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.44672134"
            d="M 620.375,782.875 C 613.66846,782.875 608.21851,788.06419 607.78125,794.65625 L 351.1875,794.65625 L 351.1875,801.71875 L 608,801.71875 C 609.13917,807.52647 614.22372,811.875 620.375,811.875 L 630.625,811.875 C 636.77628,811.875 641.86083,807.52647 643,801.71875 L 659.375,801.71875 L 659.375,794.65625 L 643.21875,794.65625 C 642.78149,788.06419 637.33154,782.875 630.625,782.875 L 620.375,782.875 z M 621.125,784.875 L 629.9375,784.875 C 635.95491,784.875 640.78125,789.70494 640.78125,795.71875 L 640.78125,798.96875 C 640.78122,804.98254 635.95488,809.8125 629.9375,809.8125 L 621.125,809.8125 C 615.10765,809.8125 610.25,804.98256 610.25,798.96875 L 610.25,795.71875 C 610.25002,789.70496 615.10762,784.875 621.125,784.875 z "
@@ -545,21 +545,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="213.17748"
-     inkscape:cy="1071.52"
+     inkscape:zoom="1"
+     inkscape:cx="516.63954"
+     inkscape:cy="382.90748"
      inkscape:current-layer="layer1"
      id="namedview2164"
-     inkscape:window-width="1280"
-     inkscape:window-height="725"
-     inkscape:window-x="0"
+     inkscape:window-width="1511"
+     inkscape:window-height="938"
+     inkscape:window-x="86"
      inkscape:window-y="25"
      showguides="false"
      inkscape:guide-bbox="true"
      width="11in"
      height="17in"
      units="in"
-     showgrid="false">
+     showgrid="false"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="vertical"
        position="665.36184"
@@ -779,10 +780,14 @@
            y="14.121922"
            style="font-style:normal" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2930">SGN is the bioinformatics hub for the ongoing Tomato genome sequencing project. Tomato has been sequenced by an international consortium as a high quality reference sequence for the Asterids. A next-generation whole genome shotgun assembly has been generated and assembed. The genome can be browsed using Gbrowse, or analyzed using BLAST among other tools.</flowPara></flowRoot>    <flowRoot
+         id="flowPara2930">SGN is the bioinformatics hub for the ongoing Tomato genome sequencing project. Tomato has been sequenced by an international consortium as a high quality reference sequence for the Asterids.  The genome sequence itself is a hybrid assembly of many different sequence sources: full BAC sequences, BAC-end reads, and next-generation reads (454, Illumina, SOLiD).</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara3435"></flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara3437">The genome can be browsed using Gbrowse, or analyzed using BLAST and other tools.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3470"
-       transform="translate(23.47756,759.60141)"><flowRegion
+       transform="translate(23.47756,829.60141)"><flowRegion
          id="flowRegion3472"><rect
            id="rect3474"
            width="277.97989"
@@ -797,13 +802,13 @@
        inkscape:export-xdpi="299.94577"
        inkscape:export-ydpi="299.94577">
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/nsfe.tif"
          xlink:href="nsfe.tif"
-         sodipodi:absref="/tmp/nsfe.tif"
-         width="65.364059"
-         height="64.367401"
-         id="image5282"
+         y="543.05573"
          x="687.29462"
-         y="543.05573" />
+         id="image5282"
+         height="64.367401"
+         width="65.364059" />
     </a>
     <a
        id="a2473"
@@ -812,13 +817,13 @@
        inkscape:export-xdpi="299.94577"
        inkscape:export-ydpi="299.94577">
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/usda_large.gif"
          xlink:href="usda_large.gif"
-         sodipodi:absref="/tmp/color_large.gif"
-         width="68.476921"
-         height="67.994972"
-         id="image5325"
+         y="617.01825"
          x="685.73822"
-         y="617.01825" />
+         id="image5325"
+         height="67.994972"
+         width="68.476921" />
     </a>
     <a
        id="a2476"
@@ -904,6 +909,8 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara3820">The SGN Locus database is a community curated repository of gene information. Each locus can be assigned to a 'locus editor' from the research community, who can edit the locus information.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
+         id="flowPara3433" /><flowPara
+         style="text-align:justify;text-anchor:start"
          id="flowPara2892">Loci data includes images, ontology annotations, publications, alleles and sequences, genetic map locations, and user comments.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:13.86394882px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -927,13 +934,13 @@
            y="869" /></flowRegion><flowPara
          id="flowPara5033"
          style="text-align:justify;text-anchor:start">View and compare genetic maps of tomato, potato, pepper, and other species.</flowPara></flowRoot>    <image
-       y="899.78583"
-       x="382.14548"
-       id="image5075"
-       height="207.41243"
+       sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/comp_viewer.png"
+       xlink:href="comp_viewer.png"
        width="246.45897"
-       sodipodi:absref="/crypt/rob/cxgn/comp_viewer.png"
-       xlink:href="comp_viewer.png" />
+       height="207.41243"
+       id="image5075"
+       x="382.14548"
+       y="899.78583" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
@@ -1156,16 +1163,16 @@
          id="tspan6299"
          sodipodi:role="line">solQTL</tspan></text>
     <image
-       y="672.17822"
-       x="340.81827"
-       id="image5229"
-       height="93.923294"
-       width="108.84569"
-       sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/bti_logo.jpg"
+       sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/bti_logo.jpg"
        xlink:href="bti_logo.jpg"
-       inkscape:export-filename="test.png"
+       inkscape:export-ydpi="299.94577"
        inkscape:export-xdpi="299.94577"
-       inkscape:export-ydpi="299.94577" />
+       inkscape:export-filename="test.png"
+       width="108.84569"
+       height="93.923294"
+       id="image5229"
+       x="340.81827"
+       y="672.17822" />
     <text
        xml:space="preserve"
        style="font-size:17.51835632px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
@@ -1193,12 +1200,13 @@
          style="text-align:justify;text-anchor:start">Use the SGN Intron Finder to predict locations of introns in transcript sequences by sequence similarity to genes in <flowSpan
    style="font-style:italic;text-align:justify;text-anchor:start"
    id="flowSpan28631">Arabidopsis thaliana</flowSpan>.</flowPara></flowRoot>    <g
-       id="g5138">
+       id="g5138"
+       transform="translate(0,-6)">
       <text
          id="text8476"
          y="1147.3928"
          x="692.27411"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
          xml:space="preserve"><tspan
            style="font-size:13px;font-weight:bold"
            y="1147.3928"
@@ -1217,53 +1225,44 @@
              height="53.778427"
              width="296.87866"
              id="rect28637" /></flowRegion><flowPara
-           id="flowPara3542">Use the intuitive CAPS designer to design CAPS assays for genetic mapping.</flowPara><flowPara
+           id="flowPara3542">Use the intuitive CAPS designer to design powerful CAPS assays for genetic mapping.</flowPara><flowPara
            id="flowPara3544"
            style="font-size:9px;fill:#0000ff">http://solgenomics.net/tools/caps_designer/caps_input.pl</flowPara><flowPara
            id="flowPara3546"
            style="font-size:9px" /><flowPara
            id="flowPara3548"
            style="font-size:9px" /></flowRoot>    </g>
-    <rect
-       rx="0"
-       ry="0"
-       y="1163.1041"
-       x="55.526215"
-       height="149.81566"
-       width="253.35599"
-       id="rect17290"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.93118775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
     <text
        xml:space="preserve"
-       style="font-size:8.71275139px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="56.214153"
-       y="1339.6655"
+       style="font-size:8.71275139px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="40.38081"
+       y="1404.3422"
        id="text2381"
-       transform="scale(1.0105264,0.9895833)"><tspan
+       transform="scale(1.0105264,0.98958326)"><tspan
          sodipodi:role="line"
-         x="56.214153"
-         y="1339.6655"
+         x="40.38081"
+         y="1404.3422"
          id="tspan2385"
          style="font-weight:bold">Browse the tomato genome sequence at </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.22983456px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="55.509258"
-       y="1348.5388"
+       style="font-size:8.22983456px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="40.433178"
+       y="1413.2155"
        id="text2389"
-       transform="scale(1.0105264,0.9895833)"><tspan
+       transform="scale(1.0105264,0.98958326)"><tspan
          sodipodi:role="line"
          id="tspan2391"
-         x="55.509258"
-         y="1348.5388">http://solgenomics.net/organism/Solanum_lycopersicum/genome</tspan></text>
+         x="40.433178"
+         y="1413.2155">http://solgenomics.net/organism/Solanum_lycopersicum/genome</tspan></text>
     <image
-       height="142.87656"
-       width="246.83299"
+       sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/sgn_gbrowse.png"
        xlink:href="sgn_gbrowse.png"
-       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/sgn_gbrowse.png"
+       y="1211.3085"
+       x="37.999283"
        id="image3503"
-       x="60.186852"
-       y="1164.4427" />
+       width="278.39371"
+       height="161.14513" />
     <g
        id="g5106"
        transform="translate(0,3)">
@@ -1277,22 +1276,22 @@
          ry="0"
          rx="0" />
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/introns.png"
          xlink:href="introns.png"
-         sodipodi:absref="/home/.rob_clear/cxgn/core/sgn-tools/doc/promotional_brochure/introns.png"
-         width="244.9238"
-         height="46.555763"
-         id="image2754"
+         y="1459.8588"
          x="383.25717"
-         y="1459.8588" />
+         id="image2754"
+         height="46.555763"
+         width="244.9238" />
     </g>
     <image
-       y="1245.701"
-       x="385.33691"
-       id="image2959"
-       height="116.14229"
+       sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/tree_alignment.png"
+       xlink:href="tree_alignment.png"
        width="240.56175"
-       sodipodi:absref="/home/.rob_clear/cxgn/core/sgn-tools/doc/promotional_brochure/tree_alignment.png"
-       xlink:href="tree_alignment.png" />
+       height="116.14229"
+       id="image2959"
+       x="385.33691"
+       y="1245.701" />
     <rect
        style="opacity:1;fill:url(#linearGradient4648);fill-opacity:1;stroke:none;stroke-width:0.57200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="rect6067"
@@ -1409,13 +1408,13 @@
          id="rect6348"
          style="fill:#ffffff;fill-opacity:1;stroke:#1b1b1b;stroke-width:0.94012976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/solcyc1.png"
          xlink:href="solcyc1.png"
-         sodipodi:absref="/crypt/rob/cxgn/solcyc1.png"
-         width="130.23613"
-         height="156.86075"
-         id="image5258"
+         y="1335.9019"
          x="702.20856"
-         y="1335.9019" />
+         id="image5258"
+         height="156.86075"
+         width="130.23613" />
       <rect
          ry="1.9028568"
          rx="1.9497395"
@@ -1426,13 +1425,13 @@
          id="rect8432"
          style="fill:#ffffff;fill-opacity:1;stroke:#1b1b1b;stroke-width:0.94012976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/solcyc2.png"
          xlink:href="solcyc2.png"
-         sodipodi:absref="/crypt/rob/cxgn/solcyc2.png"
-         width="131.51659"
-         height="154.23933"
-         id="image8429"
+         y="1338.1072"
          x="837.98334"
-         y="1338.1072" />
+         id="image8429"
+         height="154.23933"
+         width="131.51659" />
     </g>
     <g
        id="g5056"
@@ -1475,13 +1474,13 @@
          id="rect17294"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.23771572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" />
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/blast.png"
          xlink:href="blast.png"
-         sodipodi:absref="/crypt/rob/cxgn/blast.png"
-         width="240.21623"
-         height="56.121952"
-         id="image8589"
+         y="984.79651"
          x="714.48596"
-         y="984.79651" />
+         id="image8589"
+         height="56.121952"
+         width="240.21623" />
     </g>
     <g
        id="g5085"
@@ -1591,7 +1590,7 @@
            y="551.87286">petunia</tspan></text>
       <path
          transform="matrix(0.5025773,0,0,0.4868241,500.09334,242.82502)"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          sodipodi:ry="4.75"
          sodipodi:rx="4.75"
          sodipodi:cy="450.25"
@@ -1607,11 +1606,11 @@
          sodipodi:cy="450.25"
          sodipodi:rx="4.75"
          sodipodi:ry="4.75"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          transform="matrix(0.5025773,0,0,0.4868241,500.09333,268.51851)" />
       <path
          transform="matrix(0.5025773,0,0,0.4868241,500.09334,294.21201)"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          sodipodi:ry="4.75"
          sodipodi:rx="4.75"
          sodipodi:cy="450.25"
@@ -1627,7 +1626,7 @@
          sodipodi:cy="450.25"
          sodipodi:rx="4.75"
          sodipodi:ry="4.75"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          transform="matrix(0.5025773,0,0,0.4868241,500.09334,318.693)" />
       <text
          transform="scale(1.0160507,0.9842028)"
@@ -1670,11 +1669,11 @@
          sodipodi:cy="450.25"
          sodipodi:rx="4.75"
          sodipodi:ry="4.75"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          transform="matrix(0.5025772,0,0,0.4868241,355.5495,242.82502)" />
       <path
          transform="matrix(0.5025772,0,0,0.4868241,355.5495,268.51851)"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          sodipodi:ry="4.75"
          sodipodi:rx="4.75"
          sodipodi:cy="450.25"
@@ -1690,7 +1689,7 @@
          sodipodi:cy="450.25"
          sodipodi:rx="4.75"
          sodipodi:ry="4.75"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          transform="matrix(0.5025772,0,0,0.4868241,355.5495,294.212)" />
       <text
          transform="scale(1.0160507,0.9842028)"
@@ -1705,7 +1704,7 @@
            sodipodi:role="line">snapdragon</tspan></text>
       <path
          transform="matrix(0.5025772,0,0,0.4868241,355.5495,318.693)"
-         d="M 726.5,450.25 A 4.75,4.75 0 1 1 717,450.25 A 4.75,4.75 0 1 1 726.5,450.25 z"
+         d="m 726.5,450.25 c 0,2.62335 -2.12665,4.75 -4.75,4.75 -2.62335,0 -4.75,-2.12665 -4.75,-4.75 0,-2.62335 2.12665,-4.75 4.75,-4.75 2.62335,0 4.75,2.12665 4.75,4.75 z"
          sodipodi:ry="4.75"
          sodipodi:rx="4.75"
          sodipodi:cy="450.25"
@@ -2030,7 +2029,7 @@
          sodipodi:role="line"
          id="tspan2825"
          x="838.8681"
-         y="326.12277">Clade-oriented database for</tspan><tspan
+         y="326.12277">A clade-oriented database for</tspan><tspan
          sodipodi:role="line"
          x="838.8681"
          y="341.12277"
@@ -2055,21 +2054,21 @@
            rx="0" />
       </g>
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/qtl_map.png"
          xlink:href="qtl_map.png"
-         sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/qtl_map.png"
-         width="100.88662"
-         height="123.33453"
-         id="image3069"
+         y="441.88336"
          x="541.23419"
-         y="441.88336" />
+         id="image3069"
+         height="123.33453"
+         width="100.88662" />
       <image
+         sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/qtl_plots.png"
          xlink:href="qtl_plots.png"
-         sodipodi:absref="/crypt/rob/cxgn/git/main/sgn-tools/doc/promotional_brochure/qtl_plots.png"
-         width="154.89458"
-         height="116.25142"
-         id="image3173"
+         y="448.64066"
          x="373.4697"
-         y="448.64066" />
+         id="image3173"
+         height="116.25142"
+         width="154.89458" />
     </g>
     <g
        id="g4128">
@@ -2154,7 +2153,7 @@
            height="109.60155"
            x="29.698484"
            y="149.7276" /></flowRegion><flowPara
-         id="flowPara2857"></flowPara></flowRoot>    <flowRoot
+         id="flowPara2857" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2871"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
@@ -2164,7 +2163,7 @@
            height="118.08683"
            x="15.556349"
            y="141.24232" /></flowRegion><flowPara
-         id="flowPara2877"></flowPara></flowRoot>    <flowRoot
+         id="flowPara2877" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2879"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
@@ -2174,7 +2173,7 @@
            height="159.09901"
            x="-4.2426405"
            y="125.68597" /></flowRegion><flowPara
-         id="flowPara2885"></flowPara></flowRoot>    <g
+         id="flowPara2885" /></flowRoot>    <g
        style="display:inline"
        transform="translate(-323.31777,-172.38609)"
        id="g2894"
@@ -2229,31 +2228,22 @@
          x="59.650799"
          y="468.7746"
          style="font-size:14px;font-weight:bold">Phenotype data</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.8191824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-       id="rect3145"
-       width="320.78842"
-       height="160.87492"
-       x="18.484964"
-       y="237.00461"
-       ry="0"
-       rx="0" />
     <image
-       y="238.46199"
-       x="19.630037"
+       sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/sun_locus.png"
+       xlink:href="sun_locus.png"
+       width="278.06476"
+       height="136.54007"
        id="image3213"
-       height="155.58804"
-       width="316.61972"
-       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/sun_locus.png"
-       xlink:href="sun_locus.png" />
+       x="38.328236"
+       y="266.13116" />
     <image
-       y="73.357903"
-       x="528.58868"
-       id="image3283"
-       height="96.159378"
+       sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/BreedersToolBox.png"
+       xlink:href="BreedersToolBox.png"
        width="128.60303"
-       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/BreedersToolBox.png"
-       xlink:href="BreedersToolBox.png" />
+       height="96.159378"
+       id="image3283"
+       x="528.58868"
+       y="73.357903" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3512"
@@ -2264,23 +2254,14 @@
            height="335.16861"
            x="16.970562"
            y="1127.6562" /></flowRegion><flowPara
-         id="flowPara3518"></flowPara></flowRoot>    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.39628768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-       id="rect3620"
-       width="311.31183"
-       height="97.658211"
-       x="21.940786"
-       y="669.78778"
-       ry="0"
-       rx="0" />
-    <image
-       y="673.30927"
-       x="22.329237"
+         id="flowPara3518" /></flowRoot>    <image
+       sodipodi:absref="/home/rob/cxgn/art/promotional_brochure/sgn_pheno.png"
+       xlink:href="sgn_pheno.png"
+       width="279.97739"
+       height="77.902634"
        id="image3616"
-       height="85.7416"
-       width="308.15015"
-       sodipodi:absref="/home/naama/cxgn/art/promotional_brochure/sgn_pheno.png"
-       xlink:href="sgn_pheno.png" />
+       x="36.415623"
+       y="677.22876" />
     <flowRoot
        style="display:inline"
        transform="translate(-305.2085,-318.29609)"
@@ -2296,7 +2277,34 @@
            width="281.42697"
            id="rect3626" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara3630">The SGN phenotype database contains information on plant accessions from mutant and mapping populations as well as collections of varieties, breeder lines, and experimetally designed segregating populations. Each phenotyped line can be traced for crosses and experiments, such as phenotyping and genotyping. All phenotype data and annotations, such as ontologies, publications, and linked loci, are editable in a similar manner to the locus database</flowPara></flowRoot>  </g>
+         id="flowPara3630">The SGN phenotype database contains information on plant accessions from mutant and mapping populations as well as collections of varieties, breeder lines, and experimetally designed segregating populations. Each phenotyped line can be traced for crosses and experiments, such as phenotyping and genotyping. All phenotype data and annotations, such as ontologies, publications, and linked loci, are editable in a similar manner to the locus database</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.81918228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect3145"
+       width="279.0704"
+       height="139.849"
+       x="37.322598"
+       y="265.51758"
+       ry="0"
+       rx="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.39628768;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect3620"
+       width="277.59259"
+       height="84.605644"
+       x="38.800404"
+       y="675.0766"
+       ry="0"
+       rx="0" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1211.7014"
+       x="37.999283"
+       height="164.62106"
+       width="278.39371"
+       id="rect17290"
+       style="fill:none;stroke:#000000;stroke-width:1.93118763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
